@@ -43,7 +43,7 @@ du répertoire `sources`, où se stabilise les versions.
 - Un paragraphe donnant un exemple plus détaillé
 - Une citation d'un EIG ou d'un mentor en lien avec le principe
 
-Voir [cette image](images/structure-document.jpg).
+Voir [cette image](images/presentation-page-engagement.jpg).
 
 # Licence
 
