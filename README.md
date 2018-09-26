@@ -16,6 +16,12 @@ versions stabilisées au fur et à mesure dans le répertoire `sources`.
 N'hésitez pas à proposer des améliorations ou à poser des questions en
 ouvrant une issue.
 
+# Notes
+
+Voici les notes prises pendant le « hors-les-murs ».
+
+https://semestriel.framapad.org/p/eig-hors-les-murs-2018
+
 # Plan provisoire
 
 À gauche les liens vers les pads, à droit les liens vers les fichiers
