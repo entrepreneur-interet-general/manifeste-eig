@@ -43,12 +43,16 @@ Autres éléments :
 
 # Plan d'une page « principe »
 
-- [Expression verbale] : [phrase d'explicitation]
-- Trois lignes expliquant de quoi il s'agit
-- Un paragraphe donnant un exemple plus détaillé
+- Verbe (e.g. "Mobiliser")
+- Titre (e.g. "Impliquer toutes les parties prenantes d'un projet dans sa gouvernance.")
+- Explicitation :
+  - constat (1 paragraphe)
+  - proposition/horizon (1 paragraphe)
+- Illustration(s)
 - Une citation d'un EIG ou d'un mentor en lien avec le principe
 
-Voir [cette image](images/presentation-page-engagement.jpg).
+Voir [cette image](images/presentation-page-engagement.jpg) pour la
+première version proposée lors du « hors-les-murs » de septembre.
 
 # Licence
 
