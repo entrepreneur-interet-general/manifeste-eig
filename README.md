@@ -34,7 +34,6 @@ du répertoire `sources`, où les versions se stabilisent.
 - https://bimestriel.framapad.org/p/eig-internaliser (voir [internaliser.org](sources/internaliser.org))
 - https://bimestriel.framapad.org/p/eig-ameliorer (voir [ameliorer.org](sources/ameliorer.org))
 - https://bimestriel.framapad.org/p/eig-conclusion (voir [conclusion.org](sources/conclusion.org))
-- https://bimestriel.framapad.org/p/eig-lexique 
 
 Autres éléments :
 
