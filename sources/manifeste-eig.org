@@ -1,0 +1,8 @@
+#+include: introduction.org
+#+include: limiter.org
+#+include: ameliorer.org
+#+include: ouvrir.org
+#+include: mobiliser.org
+#+include: internaliser.org
+#+include: conclusion.org
+
