@@ -9,6 +9,7 @@
 Récemment la taille des projets informatiques a considérablement augmenté. Il n'est pas rare de voir des projets informatiques de plusieurs dizaines de millions d'euros dans l'administration. Souvent ces projets ambitieux ne tiennent pas leurs promesses.
 
 Risques des grands projets :
+
 -Plus on ajoute de personnes dans un projet, plus le coût de coordination augmente
 
 -Boucle de retour utilisateur, temps d'itération plus long : risque de ne plus répondre au besoin utilisateur
