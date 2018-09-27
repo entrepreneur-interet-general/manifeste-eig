@@ -1,134 +1,157 @@
 #+title: Notes de l'atelier Manifeste EIG (matin)
 
-* Répartition des sujets
+* Matin
 
-- Philéas : améliorer
-- Benoît : mobiliser
-- Paul : limiter
-- Victor et Laurie : ouvrir
-- Dora et Bastien : internaliser
+** Répartition des sujets
 
-* Ouvrir
+ - Philéas : améliorer
+ - Benoît : mobiliser
+ - Paul : limiter
+ - Victor et Laurie : ouvrir
+ - Dora et Bastien : internaliser
 
-Il faut des algo explicables, lisibles, accessibles, reproductibles,
-donc il faut de la médiation à propos, du code et des données. Pour ça
-il faut déjà produit des données, des outils de diffusion des savoirs
-et des ressources.
+** Ouvrir
 
-Ouvrir vers l'extérieur et pour l'extérieur.
+ Il faut des algo explicables, lisibles, accessibles, reproductibles,
+ donc il faut de la médiation à propos, du code et des données. Pour ça
+ il faut déjà produit des données, des outils de diffusion des savoirs
+ et des ressources.
 
-Transparence : nécessité pour l'utilisateur et une force pour
-l'administration.
+ Ouvrir vers l'extérieur et pour l'extérieur.
 
-On commence par les choses qui sont bien pour les utilisateurs et
-ensuite on enchaîne sur ce qui est bon pour l'administration.
+ Transparence : nécessité pour l'utilisateur et une force pour
+ l'administration.
 
-- Faire apparaître les aspects d'obligation légale
-- Insister sur les bénéfices que ça apporte
-- Faire apparaître le mot "documentation" dans la médiation
+ On commence par les choses qui sont bien pour les utilisateurs et
+ ensuite on enchaîne sur ce qui est bon pour l'administration.
 
-Cas d'usage : Wikipédia Gobelins, Solidata pour SocialConnect.
+ - Faire apparaître les aspects d'obligation légale
+ - Insister sur les bénéfices que ça apporte
+ - Faire apparaître le mot "documentation" dans la médiation
 
-Peut-être ajouter des éléments pour une partie "À ne pas faire" ?
+ Cas d'usage : Wikipédia Gobelins, Solidata pour SocialConnect.
 
-- présenter des données sans explications
-- oublier le design dans l'accès à l'information
+ Peut-être ajouter des éléments pour une partie "À ne pas faire" ?
 
-* Mobiliser
+ - présenter des données sans explications
+ - oublier le design dans l'accès à l'information
 
-Périmètre : [Vertical vs horizontal] et [Agile vs Waterfall]
+** Mobiliser
 
-Baseline : « impliquer toutes les parties prenantes d'un projet
-logiciel dans une gouvernance horizontale »
+ Périmètre : [Vertical vs horizontal] et [Agile vs Waterfall]
 
-- Doers vs managers : permettre de monter en compétences en restant
-  sur des créneaux tech.
+ Baseline : « impliquer toutes les parties prenantes d'un projet
+ logiciel dans une gouvernance horizontale »
 
-- Responsabilité/redevabilité : une équipe est porteuse d'un bout de
-  la chaîne de façon collective.
+ - Doers vs managers : permettre de monter en compétences en restant
+   sur des créneaux tech.
 
-** Questions
+ - Responsabilité/redevabilité : une équipe est porteuse d'un bout de
+   la chaîne de façon collective.
 
-- Comment dire qu'il faut des managers "pro" ?
-- Question des tracks des developers dans la Silicon Valley:
-  1. Track tech puis chef d'équipe, management
-  2. Track tech puis tu restes "dev"
-- Logiciel ?  Comment inclure la datascience au-delà de l'objet
-  logiciel ?
+*** Questions
 
-* Améliorer
+ - Comment dire qu'il faut des managers "pro" ?
+ - Question des tracks des developers dans la Silicon Valley:
+   1. Track tech puis chef d'équipe, management
+   2. Track tech puis tu restes "dev"
+ - Logiciel ?  Comment inclure la datascience au-delà de l'objet
+   logiciel ?
 
-Replace vs enhance - autour du concept de « dette technique ».
+** Améliorer
 
-On perd le contrôle vs on garde le contrôle.
+ Replace vs enhance - autour du concept de « dette technique ».
 
-Facteurs de risque des deux stratégies (améliorer et remplacer).
+ On perd le contrôle vs on garde le contrôle.
 
-Logique de continuité.  Par exemple le versionnement sémantique, on
-déclare ouvertement ce qui est incrémental et les « bonds ».
+ Facteurs de risque des deux stratégies (améliorer et remplacer).
 
-Des gens utilisent « améliorer » à la place de remplacer.
+ Logique de continuité.  Par exemple le versionnement sémantique, on
+ déclare ouvertement ce qui est incrémental et les « bonds ».
 
-Bibliographie :
+ Des gens utilisent « améliorer » à la place de remplacer.
 
-- Alan Kay et l'innovation incrémentale vs innovation "new new".
-- Talk de Rich Hickey
+ Bibliographie :
 
-Parler des APIs et de l'intéropérabilité et de la modularité pour
-expliquer que ça favorise la souplesse d'évolution des SI... qui
-favorise une approche par l'amélioration.
+ - Alan Kay et l'innovation incrémentale vs innovation "new new".
+ - Talk de Rich Hickey
 
-Trois critères qui opposent remplacer / améliorer :
+ Parler des APIs et de l'intéropérabilité et de la modularité pour
+ expliquer que ça favorise la souplesse d'évolution des SI... qui
+ favorise une approche par l'amélioration.
 
-- cycles : courts vs longs
-- coûts : régulier vs « d'un coup »
+ Trois critères qui opposent remplacer / améliorer :
 
-Différents types de dettes :
+ - cycles : courts vs longs
+ - coûts : régulier vs « d'un coup »
 
-- dette organisationnelle : dépendre d'une organisation extérieure
-- dépendre d'une technologie fragile : « dette technique »
-- dépendre d'un salarié : « dette humaine »
+ Différents types de dettes :
 
-L'administration accepte une dette organisationnelle et invoque le
-problème de la dette technique (pour éviter les techno récentes) et le
-problème de la dette humaine (pour éviter de dépendre de salariés) :
-il faut internaliser et investir dans des technos récentes parce que
-ce n'est pas de la dette, c'est de l'investissement.
+ - dette organisationnelle : dépendre d'une organisation extérieure
+ - dépendre d'une technologie fragile : « dette technique »
+ - dépendre d'un salarié : « dette humaine »
 
-Message à faire passer : la « dette organisationnelle » est plus
-coûteuse à terme que les dettes techniques et humaines (= internaliser
-des développeurs sur des technologies émergentes).
+ L'administration accepte une dette organisationnelle et invoque le
+ problème de la dette technique (pour éviter les techno récentes) et le
+ problème de la dette humaine (pour éviter de dépendre de salariés) :
+ il faut internaliser et investir dans des technos récentes parce que
+ ce n'est pas de la dette, c'est de l'investissement.
 
-* Réduire [Limiter]
+ Message à faire passer : la « dette organisationnelle » est plus
+ coûteuse à terme que les dettes techniques et humaines (= internaliser
+ des développeurs sur des technologies émergentes).
 
-Rejoint beaucoup ce que dit Philéas.
+** Réduire [Limiter]
 
-Réduire la taille des projets informatiques.
+ Rejoint beaucoup ce que dit Philéas.
 
-Grands projets : coûts de coordination, risques de frustration, risque
-d'obsolescence des technologies, paradoxe d'amortissement.
+ Réduire la taille des projets informatiques.
 
-Recommandation principale : 
+ Grands projets : coûts de coordination, risques de frustration, risque
+ d'obsolescence des technologies, paradoxe d'amortissement.
 
-- faire plein de petits projet
-- « dérisquer » en rendant les projets indépendants les uns des autres
+ Recommandation principale : 
 
-Analyse pre-mortem :
+ - faire plein de petits projet
+ - « dérisquer » en rendant les projets indépendants les uns des autres
 
-- réunion juste avant de lancer un projet
-- chacun doit expliquer les raisons de l'échec
+ Analyse pre-mortem :
 
-Exemple (négatif) du logiciel Louvois
-Exemple (positif) des startups d'Etat
+ - réunion juste avant de lancer un projet
+ - chacun doit expliquer les raisons de l'échec
 
-Aborder l'aspect de mutualisation/généricité 
+ Exemple (négatif) du logiciel Louvois
+ Exemple (positif) des startups d'Etat
 
-Hype-based vs impact-driven.
+ Aborder l'aspect de mutualisation/généricité 
 
-* Internaliser
-* Remarques générales
+ Hype-based vs impact-driven.
+
+** Internaliser
+** Remarques générales
 
 - Quelles recommandations fait-on pour la conduite de changement ?
 
 - On parle des prestataires : ça peut être intéressant de discuter
   avec eux pour connaître leur expérience de l'administration.
+
+* Après-midi
+
+Éléments de langage : "principe" (pour les verbes)
+
+Retours sur le brouillon du matin :
+
+- Hétérogénéité des façon de présenter les principes
+- Attention au jargonnage - lexique ?
+- Harmonisation des éléments de langage
+- Harmoniser la présentation visuelle
+
+* Structure d'exposition d'un principe
+
+- Verbe : "Mobiliser"
+- Titre : "Impliquer toutes les parties prenantes d'un projet dans sa gouvernance."
+- Explicitation :
+  - constat (1 paragraphe)
+  - proposition/horizon (1 paragraphe)
+- Illustration
+
