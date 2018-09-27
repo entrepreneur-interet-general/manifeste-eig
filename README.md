@@ -36,6 +36,11 @@ du répertoire `sources`, où se stabilise les versions.
 - https://bimestriel.framapad.org/p/eig-ameliorer (voir [ameliorer.org](sources/ameliorer.org))
 - https://bimestriel.framapad.org/p/eig-conclusion (voir [conclusion.org](sources/conclusion.org))
 
+Autres éléments :
+
+- https://bimestriel.framapad.org/p/eig-lexique (voir [lexique.org](sources/lexique.org))
+- https://bimestriel.framapad.org/p/eig-bibliographie (voir [bibliographie.org](sources/bibliographie.org))
+
 # Plan d'une page « principe »
 
 - [Expression verbale] : [phrase d'explicitation]
