@@ -37,7 +37,7 @@ du répertoire `sources`, où les versions se stabilisent.
 
 Autres éléments :
 
-- https://bimestriel.framapad.org/p/eig-lexique (voir [lexique.org](sources/lexique.org))
+- https://bimestriel.framapad.org/p/eig-lexique
 - https://bimestriel.framapad.org/p/eig-bibliographie (voir [bibliographie.org](sources/bibliographie.org))
 
 # Plan d'une page « principe »
