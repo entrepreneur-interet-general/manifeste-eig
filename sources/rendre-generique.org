@@ -1,3 +1,73 @@
-* Généricité
+* Rendre générique
 
-Source : [[https://bimestriel.framapad.org/p/eig-genericite]]
+Source : [[https://bimestriel.framapad.org/p/eig-rendre-generique]]
+
+
+** Baseline : Créer des composants logiciels plutôt que des applications monolithiques
+
+    " Votre besoin est très certainement celui de quelqu'un d'autre, demain ou aujourd'hui "
+
+    " Votre problème d'aujourd'hui, quelqu'un l'a certainement déjà rencontré auparavant ou l'aura demain. Et s'il l'a déjà rencontré, il a beaucoup de choses à vous apprendre" . 
+
+    " On peut réinventer la roue, à condition qu'elle soit ronde..."
+
+
+** Mise en situation : 
+
+*** Diagnostic / constat : 
+
+    Un projet avec une composante numérique part en général de l'expression d'un besoin métier précis : une cible d'utilisateurs ou encore des jeux de données sont déjà plus ou moins clairement identifiés, ainsi qu'une première idée des livrables. Il est souvent tentant - ou du moins plus confortable - de ne chercher à répondre qu'aux besoins premièrement exprimés sans penser à la possiblité que l'outil développé puisse être utilie ailleurs. Mais c'est souvent oublier que le problème que l'on rencontre dans son propre métier est ou a déjà été rencontré dans d'autres services, que cela soit dans sa propre administration ou non. 
+
+    Oublier cet aspect c'est se couper dès l'abord d'un grand nombre de ressources potentielles : les personnes qui dans le passé ont déjà rencontré ce même problème pourraient apporter leurs propres retours d'expériences, leurs propres réflexions sur leur propre manière d'y faire face, les solutions précédemment développées pourraient être adaptées et faire gagner du temps dans le développement du projet, et ces personnes pourraient demain les mêmes qui seraient en mesure de contribuer et d'améliorer les solutions...
+
+    A l'inverse, aborder son propre projet en cherchant à le rendre le plus générique possible, et chercher à intégrer toutes les possibilités de personnalisations et d'adaptations dès le début risque d'alourdir le projet jusqu'à l'inefficacité. Il faudrait en effet identifier et rencontrer les potentiels réutilisateurs, caractériser leurs propres besoins, synthétiser les retours, et intégrer le tout dans la solution en cours... Les moyens à disposition de chacun étant limités, et les délais pour livrer étant eux aussi incompressibles, il est probablement impossible d'aboutir à des solutions 100% génériques.
+
+    La généricité d'un projet numérique est ainsi autant une question de méthodologie que de choix. Il est essentiel d'envisager les potentiels de réutilisation de sa solution afin de toucher une communauté plus large, mais il est tout aussi essentiel de pouvoir arbitrer entre les besoins métiers et leur effort de généralisation.
+
+
+*** Proposition :
+
+    Nous proposons dans cette partie quelques principes permettant à des porteurs de projets numériques d'entamer une réflexion à la fois sur la portée générique de leur solution, mais aussi de leur permettre d'arbitrer dans leur gestion de projet. 
+
+
+**** Penser générique - en général : 
+    - Il faut penser dès l'abord aux réutilisations potentielles ou immédiates par d'autres de ce que l'on cherche à développer, ne serait-ce que pour se constituer une communauté.
+    - Il ne sert à rien de chercher une solution 100% générique, l'essentiel est de savoir ce qu'il est nécessaire de garder particulier, et ce qui est potentiellement généralisable. 
+    - Il existe déjà un grand nombre de réponses totales ou partielles à son problème : cela va d'applications "clés en main" open source à des bibliothèques de script. 
+    - Il faut relativiser et décomposer son problème en sous-parties, et alors identifier pour chaque partie ce qui correspond à un besoin métier, ce qui peut être repris et adapté, et ce qui doit être développé depuis zéro.
+    - De manière pragmatique il est plus simple de chercher à gagner en généralités à partir d'un élément précis du projet plutôt que sur l'ensemble. 
+    - Mieux vaut bien faire des petits morceaux applicatifs génériques (c'est-à-dire une bonne documentation et une communauté d'utilisateurs), qu'une application complexe se voulant générique dans son ensemble. 
+    - Se baser sur de l'open source : tous les projets informatiques actuels, y compris propriétaires, reposent sur des composantes libres. Créer des nouvelles briques libres est la continuité de ce mouvement.
+
+
+**** Penser générique - une méthode : 
+
+    - Abstraire son propre besoin : le problématiser en tentant de faire ressortir les principes clés
+      - exemple de besoin non généralisable : "mon service (la sous-direction du CGET à la politique de la ville) a besoin de montrer sur une carte de Passy les indicateurs de pauvreté des populations". 
+      - exemple de traduction générique du même besoin : "nous avons besoin d'un système permettant de récupérer des données dynamiques géolocalisées et de les afficher sur une carte en ligne"
+    
+    - Parler de sa problématique à différentes personnes jusqu'à pouvoir expliquer son propre besoin de la même manière à tous.
+    - Décomposer la problématique générale en sous-parties : 
+        - besoins : besoins de l'équipe
+        - données : d'où proviennent-elles, quelles opérations faire. Le modèle de données doit refléter l'usage générique qui en est fait.
+        - interfaces : à qui s'adresse ce qui est développé, 
+        - contraintes : de temps, de moyens, de compétences...
+    - Délimiter ce que l'on cherche à développer de manière générique parmi l'ensemble des sous-problèmes et des fonctionnalités attendues. Une bonne approche à cette étape peut être de lister les fonctionnalités et de les classer par grandes familles. 
+    - La conception de composants génériques se marie bien à une démarche de développement agile, itérative. Si certains composants peuvent être identifiés dès la phase de recherche initiale du problème métier, d'autres peuvent être extraits d'applications ou prototypes déjà développés.
+
+
+**** Penser générique - des exemples plus appliqués
+
+    - Il est plus "simple" de chercher à généraliser des applications/fonctionnalités liées au traitement de données (ETL, nettoyage, agrégation), que des applications/fonctionnalités liées à une interface. En effet c'est au niveau des interfaces que se ressentent le plus vivement les besoins métiers spécifiques, alors que les opérations et automatisations autour des données en amont des interfaces sont plus "impersonnelles".
+    - Exposer des APIs (Application Programming Interface) aux bons endroits, ou encore se connecter à des API distantes est en général une stratégie payante à la condition de penser l'interopérabilité des données. 
+    - Utiliser une DSL (Domain Specific Language) pour exprimer les différences métier d'un outil générique
+
+
+
+** Exemples concrets : 
+
+    - tester une solution de prédiction sur une région dans l'idée de pouvoir la dupliquer à l'échelle nationale : PrévisSecours (repo)
+    - réussir à agréger des données publiées sur des pages html : OpenScraper (repo)
+    - développer des bibliothèques Python : TracFin (repo)
+
+
