@@ -14,20 +14,20 @@ leur utilité publique par une plus grande symétrie d'information.
 
 
 
-## Algo explicable, lisible, accessible, reproductible   
+** Algo explicable, lisible, accessible, reproductible   
 
 Permettre de comprendre les productions de façon claire, précise. 
 
 
-## -> médiation, ouverture code, ouverture données
+** -> médiation, ouverture code, ouverture données
 
 
 
-## -> production de données, diffusion du savoir/ des ressources
+** -> production de données, diffusion du savoir/ des ressources
 
 
 
-## -> contributions extérieures (github/wikipédia/hackatons etc.), rayonnement
+** -> contributions extérieures (github/wikipédia/hackatons etc.), rayonnement
 
 Exemples : 
 wikipedia ou hackathon
