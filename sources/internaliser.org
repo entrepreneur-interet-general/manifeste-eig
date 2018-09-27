@@ -1,4 +1,4 @@
-* Internaliser et décloisonner
+* Internaliser et/pour décloisonner
 
 Source : [[https://bimestriel.framapad.org/p/eig-internaliser]]
 
