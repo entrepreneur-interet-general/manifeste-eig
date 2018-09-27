@@ -4,13 +4,12 @@ Ce dépôt contient un brouillon de manifeste des entrepreneur·e·s
 d'intérêt général.
 
 Il est collaborativement rédigé par les EIG des différentes promotions
-du [programme
-EIG](https://entrepreneur-interet-general.etalab.gouv.fr).
+du [programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr).
 
-Le répertoire `images` contient les photos des brouillons faits
-pendant l'événement « hors-les-murs ».
+Le répertoire `images` contient les photos des notes prises pendant
+l'événement « hors-les-murs ».
 
-Les brouillons doivent avancer collaborativement sur framapad et les
+Les brouillons doivent avancer collaborativement sur les pads et les
 versions stabilisées au fur et à mesure dans le répertoire `sources`.
 
 N'hésitez pas à proposer des améliorations ou à poser des questions en
@@ -25,7 +24,7 @@ https://semestriel.framapad.org/p/eig-hors-les-murs-2018
 # Plan provisoire
 
 À gauche les liens vers les pads, à droit les liens vers les fichiers
-du répertoire `sources`, où se stabilise les versions.
+du répertoire `sources`, où les versions se stabilisent.
 
 - https://bimestriel.framapad.org/p/eig-introduction (voir [introduction.org](sources/introduction.org))
 - https://bimestriel.framapad.org/p/eig-rendre-generique (voir [rendre-generique.org](sources/rendre-generique.org))
