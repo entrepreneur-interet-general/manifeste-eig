@@ -1,4 +1,4 @@
-#+title: Notes de l'atelier Manifeste EIG (matin)
+#+title: Notes de l'atelier Manifeste EIG
 
 * Matin
 
@@ -146,12 +146,10 @@ Retours sur le brouillon du matin :
 - Harmonisation des éléments de langage
 - Harmoniser la présentation visuelle
 
-* Structure d'exposition d'un principe
+Groupes :
 
-- Verbe : "Mobiliser"
-- Titre : "Impliquer toutes les parties prenantes d'un projet dans sa gouvernance."
-- Explicitation :
-  - constat (1 paragraphe)
-  - proposition/horizon (1 paragraphe)
-- Illustration
-
+- Julien et Ned sur rendre-generique.org
+- JBLD et Arnaud sur les verbes et titres
+- Dora et Paul sur les explicitations
+- Philéas et Adrien sur les illustrations
+- Bastien sur un début pour l'introduction et la conclusion
