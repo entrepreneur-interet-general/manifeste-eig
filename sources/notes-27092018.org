@@ -1,0 +1,134 @@
+#+title: Notes de l'atelier Manifeste EIG (matin)
+
+* Répartition des sujets
+
+- Philéas : améliorer
+- Benoît : mobiliser
+- Paul : limiter
+- Victor et Laurie : ouvrir
+- Dora et Bastien : internaliser
+
+* Ouvrir
+
+Il faut des algo explicables, lisibles, accessibles, reproductibles,
+donc il faut de la médiation à propos, du code et des données. Pour ça
+il faut déjà produit des données, des outils de diffusion des savoirs
+et des ressources.
+
+Ouvrir vers l'extérieur et pour l'extérieur.
+
+Transparence : nécessité pour l'utilisateur et une force pour
+l'administration.
+
+On commence par les choses qui sont bien pour les utilisateurs et
+ensuite on enchaîne sur ce qui est bon pour l'administration.
+
+- Faire apparaître les aspects d'obligation légale
+- Insister sur les bénéfices que ça apporte
+- Faire apparaître le mot "documentation" dans la médiation
+
+Cas d'usage : Wikipédia Gobelins, Solidata pour SocialConnect.
+
+Peut-être ajouter des éléments pour une partie "À ne pas faire" ?
+
+- présenter des données sans explications
+- oublier le design dans l'accès à l'information
+
+* Mobiliser
+
+Périmètre : [Vertical vs horizontal] et [Agile vs Waterfall]
+
+Baseline : « impliquer toutes les parties prenantes d'un projet
+logiciel dans une gouvernance horizontale »
+
+- Doers vs managers : permettre de monter en compétences en restant
+  sur des créneaux tech.
+
+- Responsabilité/redevabilité : une équipe est porteuse d'un bout de
+  la chaîne de façon collective.
+
+** Questions
+
+- Comment dire qu'il faut des managers "pro" ?
+- Question des tracks des developers dans la Silicon Valley:
+  1. Track tech puis chef d'équipe, management
+  2. Track tech puis tu restes "dev"
+- Logiciel ?  Comment inclure la datascience au-delà de l'objet
+  logiciel ?
+
+* Améliorer
+
+Replace vs enhance - autour du concept de « dette technique ».
+
+On perd le contrôle vs on garde le contrôle.
+
+Facteurs de risque des deux stratégies (améliorer et remplacer).
+
+Logique de continuité.  Par exemple le versionnement sémantique, on
+déclare ouvertement ce qui est incrémental et les « bonds ».
+
+Des gens utilisent « améliorer » à la place de remplacer.
+
+Bibliographie :
+
+- Alan Kay et l'innovation incrémentale vs innovation "new new".
+- Talk de Rich Hickey
+
+Parler des APIs et de l'intéropérabilité et de la modularité pour
+expliquer que ça favorise la souplesse d'évolution des SI... qui
+favorise une approche par l'amélioration.
+
+Trois critères qui opposent remplacer / améliorer :
+
+- cycles : courts vs longs
+- coûts : régulier vs « d'un coup »
+
+Différents types de dettes :
+
+- dette organisationnelle : dépendre d'une organisation extérieure
+- dépendre d'une technologie fragile : « dette technique »
+- dépendre d'un salarié : « dette humaine »
+
+L'administration accepte une dette organisationnelle et invoque le
+problème de la dette technique (pour éviter les techno récentes) et le
+problème de la dette humaine (pour éviter de dépendre de salariés) :
+il faut internaliser et investir dans des technos récentes parce que
+ce n'est pas de la dette, c'est de l'investissement.
+
+Message à faire passer : la « dette organisationnelle » est plus
+coûteuse à terme que les dettes techniques et humaines (= internaliser
+des développeurs sur des technologies émergentes).
+
+* Réduire [Limiter]
+
+Rejoint beaucoup ce que dit Philéas.
+
+Réduire la taille des projets informatiques.
+
+Grands projets : coûts de coordination, risques de frustration, risque
+d'obsolescence des technologies, paradoxe d'amortissement.
+
+Recommandation principale : 
+
+- faire plein de petits projet
+- « dérisquer » en rendant les projets indépendants les uns des autres
+
+Analyse pre-mortem :
+
+- réunion juste avant de lancer un projet
+- chacun doit expliquer les raisons de l'échec
+
+Exemple (négatif) du logiciel Louvois
+Exemple (positif) des startups d'Etat
+
+Aborder l'aspect de mutualisation/généricité 
+
+Hype-based vs impact-driven.
+
+* Internaliser
+* Remarques générales
+
+- Quelles recommandations fait-on pour la conduite de changement ?
+
+- On parle des prestataires : ça peut être intéressant de discuter
+  avec eux pour connaître leur expérience de l'administration.
