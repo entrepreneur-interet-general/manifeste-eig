@@ -25,6 +25,7 @@ Au sein du programme EIG, nous pensons qu'il est possible de faire du logiciel a
    * Respecter le rythme de travail des "doers", Cf Paul Grahm => http://www.paulgraham.com/makersschedule.html.
    * Avancer de manière incrémentale. Publier un MVP le plus rapidement possible pour créer une dynamique. Déployer le produit sur un maximum de postes utilisateurs dès le début.
    * Communiquer le plus possible en faisant des démos 
+   * Redevabilié et responsabilité d'une équipe sur un projet versus on se rejette la faute les uns sur les autres. 
 
 **** À ne pas faire 
 
