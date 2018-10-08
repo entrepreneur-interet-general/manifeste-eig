@@ -1,36 +1,54 @@
-* Mobiliser (gouvernance horizontale)
+#+title: Mobiliser : encourager la gouvernance horizontale
 
-Source : [[https://bimestriel.framapad.org/p/eig-mobiliser]]
+# Source : [[https://bimestriel.framapad.org/p/eig-mobiliser]]
 
+** Punchline
 
-** Mobiliser: impliquer toutes les parties prenantes d'un projet logiciel dans une gouvernance horizontale 
+*Mobiliser*: impliquer toutes les parties prenantes d'un projet logiciel
+dans une gouvernance horizontale
 
-Aujourd'hui la plupart des projets logiciels au sein des administrations sont conçus de manière verticale. On conçoit un logiciel comme on conçoit un EPR: les objectifs sont trop ambitieux, le cahier des charges fait des milliers de ligne, les choix se font en vase clos avec peu de consultation des utilisateurs finaux, les processus sont lourds, les développeurs sont sous-valorisés et sous-staffés au profit de multiples couches de management intermédiaire. Résultat: les retards s'accumulent, la facture augmente, les utilisateurs sont frustrés et lorsque la solution est enfin déployée, elle ne correspond plus aux besoins. 
+Aujourd'hui la plupart des projets logiciels au sein des
+administrations sont conçus de manière verticale. On conçoit un
+logiciel comme on conçoit un EPR: les objectifs sont trop ambitieux,
+le cahier des charges fait des milliers de ligne, les choix se font en
+vase clos avec peu de consultation des utilisateurs finaux, les
+processus sont lourds, les développeurs sont sous-valorisés et
+sous-staffés au profit de multiples couches de management
+intermédiaire. Résultat: les retards s'accumulent, la facture
+augmente, les utilisateurs sont frustrés et lorsque la solution est
+enfin déployée, elle ne correspond plus aux besoins.
 
-Au sein du programme EIG, nous pensons qu'il est possible de faire du logiciel autrement. Les entreprises du numérique ont montré la voie. 
+Au sein du programme EIG, nous pensons qu'il est possible de faire du
+logiciel autrement. Les entreprises du numérique ont montré la voie.
 
+* Brainstorming
+** À faire 
 
-*** Brainstorming
+- Impliquer les utilisateurs: recueillir des besoins, élaborer des
+  personas, faire preuve d'empathie
+- Inviter aux contributions grâce à:
+  - code ouvert 
+  - suivi de projet (eg Kanboard) publique 
+  - Issue tracker, possibilité de proposer des améliorations 
+- Valoriser les carrières des "doers" sans forcément les promouvoir
+  manager. Nous avons besoin de profils techniques avec de
+  l'expérience.
+- Respecter le rythme de travail des "doers", Cf Paul Grahm =>
+  http://www.paulgraham.com/makersschedule.html.
+- Avancer de manière incrémentale. Publier un MVP le plus rapidement
+  possible pour créer une dynamique. Déployer le produit sur un
+  maximum de postes utilisateurs dès le début.
+- Communiquer le plus possible en faisant des démos
+- Redevabilié et responsabilité d'une équipe sur un projet versus on
+  se rejette la faute les uns sur les autres.
 
+** À ne pas faire 
 
-**** À faire 
-
-
-   * Impliquer les utilisateurs: recueillir des besoins, élaborer des personas, faire preuve d'empathie 
-   * Inviter aux contributions grâce à:
-       * code ouvert 
-       * suivi de projet (eg Kanboard) publique 
-       * Issue tracker, possibilité de proposer des améliorations 
-   * Valoriser les carrières des "doers" sans forcément les promouvoir manager. Nous avons besoin de profils techniques avec de l'expérience. 
-   * Respecter le rythme de travail des "doers", Cf Paul Grahm => http://www.paulgraham.com/makersschedule.html.
-   * Avancer de manière incrémentale. Publier un MVP le plus rapidement possible pour créer une dynamique. Déployer le produit sur un maximum de postes utilisateurs dès le début.
-   * Communiquer le plus possible en faisant des démos 
-   * Redevabilié et responsabilité d'une équipe sur un projet versus on se rejette la faute les uns sur les autres. 
-
-**** À ne pas faire 
-
-
-   * Rédiger un gros cahier des charges fixe en vase clos entre décideurs.  
-   * Multiplier les couches de management intermédiaire entre la personne qui produit le code et la personne qui consomme le logiciel  
-       * eg Développeur sous traitant > Manager sous traitant > Chef de projet Maitrise d'oeuvre > Référant utilisateurs > Utilisateurs 
-   * Multiplier les longues réunions. Il est préférable d'organiser des stand-up assez courts
+- Rédiger un gros cahier des charges fixe en vase clos entre
+  décideurs.
+- Multiplier les couches de management intermédiaire entre la personne
+  qui produit le code et la personne qui consomme le logiciel.
+  - par ex. Développeur sous traitant > Manager sous traitant > Chef
+    de projet Maitrise d'oeuvre > Référant utilisateurs > Utilisateurs
+- Multiplier les longues réunions. Il est préférable d'organiser des
+  stand-up assez courts

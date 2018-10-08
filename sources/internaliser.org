@@ -1,44 +1,82 @@
------------------------ nouvelle version--------------------------
+#+title: Internaliser : Gérer la transition numérique et la durabilité des projets
 
-Internaliser : Gérer la transition numérique et la durabilité des projets
+# Internaliser : Décloisonner : Ne pas subir.
 
-Internaliser : Décloisonner : Ne pas subir, 
-Internaliser : Monter en compétence / Faire de la transition numérique un allié 
+* Punchline
 
+*Internaliser* : Monter monter en compétences techniques les agents de
+l'administration
 
-Situation passé
+# Faire de la transition numérique un allier
 
+* Situation passé
 
+L'externalisation des projets informatiques est devenu de plus en plus
+courante au sein des administrations ces dernières années. La
+flexibilité de l'externalisation est en effet attrayante. Mais cette
+flexibilité cache plusieurs limites.
 
-L'externalisation des projets informatiques est devenu de plus en plus courante au sein des administrations ces dernières années. La flexibilité de l'externalisation est en effet attrayante. Mais cette flexibilité cache plusieurs limites.
-Le recours à des prestataires nécessite des appels d'offre qui prennent en moyenne plus d'un an juste pour la sélection d'un partenaire. Toute évolution des système est lente, fastidieuse et soumise à des lourdeurs administratives. Dans ces conditions, il est difficile pour les système d'information d'évoluer au même rythme que les nouveaux technologies et les évolutions métier. 
-Les DSI ayant un recours systématique aux prestataires accumulent une dette technique : ils n'ont plus la main de leur propre SI. Cette dette entraîne une relation de dépendance malsaine avec un acteur extérieur dont l'objectif est de maximiser ses revenus. Dans les faits, la maintenance et les évolutions du projet sont souvent sous estimé.
-Pendant la réalisation d'un projet informatique, une grande partie de la valeur créé l'est dans les cerveaux de ceux qui le réalisent. La compréhension du métier, des besoins, des systèmes et des données ont une valeur très précieuse bien que difficilement quantifiable. Quand les prestataires finissent le projet, toute cette valeur quitte l'administration.
+Le recours à des prestataires nécessite des appels d'offre qui
+prennent en moyenne plus d'un an juste pour la sélection d'un
+partenaire. Toute évolution des système est lente, fastidieuse et
+soumise à des lourdeurs administratives. Dans ces conditions, il est
+difficile pour les système d'information d'évoluer au même rythme que
+les nouveaux technologies et les évolutions métier. 
 
+Les DSI ayant un recours systématique aux prestataires accumulent une
+dette technique : ils n'ont plus la main de leur propre SI. Cette
+dette entraîne une relation de dépendance malsaine avec un acteur
+extérieur dont l'objectif est de maximiser ses revenus. Dans les
+faits, la maintenance et les évolutions du projet sont souvent sous
+estimé.
 
+Pendant la réalisation d'un projet informatique, une grande partie de
+la valeur créé l'est dans les cerveaux de ceux qui le réalisent. La
+compréhension du métier, des besoins, des systèmes et des données ont
+une valeur très précieuse bien que difficilement quantifiable. Quand
+les prestataires finissent le projet, toute cette valeur quitte
+l'administration.
 
+* Proposition pour l'avenir
 
+Les besoins SI change fréquemment et nécessite l’intégration constante
+de nouvelles connaissances et technologies. Une réinternalisation des
+compétences informatiques permet de piloter de façon plus efficace le
+système informatique de l'administration au sens large. Cela permet
+une meilleure flexibilité qui évite de coûteuses renégociations ou des
+difficultés d’intégration de ces nouvelles connaissances par des
+prestataires externes. Egalement les couts liées à l'interopérabilité
+des différentes outils informatiques utilisés sont considérablement
+diminué. Cette réinternalisation doit être accompagne par une montée
+en compétence du personnel interne ainsi que par le recrutement de
+nouveaux talents, notamment des développeurs, des datascientistes et
+des designers dans les DSI .
 
-Proposition 
-Les besoins SI change fréquemment et nécessite l’intégration constante de nouvelles connaissances et technologies. Une réinternalisation des compétences informatiques permet de piloter de façon plus efficace le système informatique de l'administration au sens large. Cela permet une meilleure flexibilité qui évite de coûteuses renégociations ou des difficultés d’intégration de ces nouvelles connaissances par des prestataires externes. Egalement les couts liées à l'interopérabilité des différentes outils informatiques utilisés sont considérablement diminué. Cette réinternalisation doit être accompagne par une montée en compétence du personnel interne ainsi que par le recrutement de nouveaux talents, notamment des développeurs, des datascientistes et des designers dans les DSI .  
-Le programme EIG permet à la fois de démontrer la viabilité d'un réinternalisation ainsi que d'intégrer de façon temporaire dans l'administration des professionnelles capables de faire monter en compétence les développeurs internes. Cela permet aussi d'exposer les DSI à des pratiques du monde entrepreneurial. Le programme donne l'occasion d'échanger entre services métiers et DSI pour la conception des outils ainsi que de mutualiser les méthodes, outils et les pratiques avec d'autres administrations. 
+Le programme EIG permet à la fois de démontrer la viabilité d'un
+réinternalisation ainsi que d'intégrer de façon temporaire dans
+l'administration des professionnelles capables de faire monter en
+compétence les développeurs internes. Cela permet aussi d'exposer les
+DSI à des pratiques du monde entrepreneurial. Le programme donne
+l'occasion d'échanger entre services métiers et DSI pour la conception
+des outils ainsi que de mutualiser les méthodes, outils et les
+pratiques avec d'autres administrations.
 
+* Exemples
 
+Internaliser ne veut pas dire que tout est réalisé en interne. Cela
+signifie qu’il y a au moins une personne agissant au nom de
+l’administration à même de maîtriser les enjeux technologiques du
+métier.
 
-Exemples
+* Précédentes réflexions
 
-Internaliser ne veut pas dire que tout est réalisé en interne. Cela signifie qu’il y a au moins une personne agissant au nom de l’administration à même de maîtriser les enjeux technologiques du métier.
-
-
------------------------ ancienne version--------------------------
-
-* Internaliser et/pour décloisonner
+** Internaliser et/pour décloisonner
 
 Source : [[https://bimestriel.framapad.org/p/eig-internaliser]]
 
 Titre initial : "Outsourced vs entrepreneurs in house"
 
-** Phrase qui présente l'idée générale
+*** Phrase qui présente l'idée générale
 
 - Les agents publics ont besoin de faire évoluer leurs outils informatiques plus facilement, sans lourdeurs administratives
 - [Les agents utilisateurs ont besoin de reprendre le contrôle des systèmes d'information dans l'administration]
@@ -49,9 +87,9 @@ Titre initial : "Outsourced vs entrepreneurs in house"
 /Tout cela ne peut se faire qu'en internalisant plus de compétences
 informatiques et en décloisonnant les échanges entre DSI et métiers./
     
-* À faire ou ne pas faire
+** À faire ou ne pas faire
 
-** À faire
+*** À faire
 
 - Recruter des développeurs et datascientistes et designers dans les DSI
 - Faire monter en compétences les développeurs existants
@@ -62,14 +100,14 @@ informatiques et en décloisonnant les échanges entre DSI et métiers./
 - Accepter l'innovation incrémentale, la techno parfaite n'existe pas
 - Exposer les DSI à des pratiques du monde entrepreneurial 
 
-** À ne pas faire
+*** À ne pas faire
 
 - Créer de la frustration en n'encadrant pas les expérimentations
 - Placer la barre trop haut (ou au mauvais endroit) sur les exigences de qualité avant mise en production
 - Développer des outils « mammouths »
 - Développer sans prendre en compte les besoins en ergonomie des utilisateurs
 
-* Exemples concrets via le programme EIG
+** Exemples concrets via le programme EIG
 
 - Montée en compétences des agents : formations SQL d'Antoine
 - Montée en compétences des agents : gendarmerie, sensibiliser au design
