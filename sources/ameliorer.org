@@ -1,11 +1,6 @@
-* Améliorer ou remplacer (replace vs enhance)
+* Améliorer : privilégier des cycles courts, un maintien continu et une évolution constante
 
 # Source : [[https://bimestriel.framapad.org/p/eig-ameliorer]]
-
-** Punchline
-
-L'amélioration suppose des itérations sur des cycles courts, un
-maintien continu de la solution et une évolution permanente.
 
 Le besoin de remplacement apparaît en général lorsque la dette
 technique est trop importante, que la solution n'a pas évolué depuis
@@ -36,7 +31,7 @@ de 0.
  : de la solution actuelle, ce qui va seulement ajouter de la
  : complexité.
 
-** Conséquences : 
+** Conséquences
 
 - cycles d'évolution courts (issues, itérations fréquentes sur la base
   des bugs remontés et améliorations proposées) vs longs
@@ -48,15 +43,15 @@ de 0.
 
 - dette technique : risque si départ des personnes compétentes mais
   documenté et code dispo en interne vs systématique.
-    
-** Lien extérieurs    
+
+** Lien extérieurs
 
 - https://www.evidenceinmotion.com/blog/2017/03/26/repeal-and-replace-vs-tweak-and-improve/
 
 - Affordable Care Act (ACA) => So our only viable option is the ACA
   improved (Medicare has been improved hundreds of times since 1965)
   with critical analysis of it’s coverage of all
-    
+
 - Est-ce qu'un algorithme doit automatiser ie remplacer l'intervention
   humaine ou l'améliorer avec des outils d'aide à la décision ?
   https://www.brookings.edu/blog/education-plus-development/2018/06/11/the-new-humanism-technology-should-enhance-not-replace-human-interactions/
@@ -64,7 +59,7 @@ de 0.
 - Le risque d'un "outil d'aide à la décision" c'est qu'il recommande
   une solution et que l'intervention humaine consiste simplement à
   valider, systématiquement, la première recommandation.
-    
+
 ** Cas d'usage
 
 http://www.data.drees.sante.gouv.fr cette solution web HTML4 s'appuie
