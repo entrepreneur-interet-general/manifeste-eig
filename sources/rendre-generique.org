@@ -1,4 +1,4 @@
-#+title: Rendre générique
+#+title: Composer : créer des services interopérables pour gagner en souplesse
 
 # Source : [[https://bimestriel.framapad.org/p/eig-rendre-generique]]
 
@@ -7,7 +7,7 @@
 
 * Baseline
 
-Rendre générique: créer des composants logiciels plutôt que des
+Rendre générique : créer des composants logiciels plutôt que des
 applications monolithiques
 
 - « Votre besoin est très certainement celui de quelqu'un d'autre,
