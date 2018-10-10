@@ -1,14 +1,16 @@
-#+title: Mobiliser : encourager la gouvernance horizontale
+#+title: Mobiliser : impliquer les parties prenantes dans une gouvernance horizontale réactive
 
 # Source : [[https://bimestriel.framapad.org/p/eig-mobiliser]]
 
-** Punchline
+* Punchline
 
 *Mobiliser*: impliquer toutes les parties prenantes d'un projet logiciel
 dans une gouvernance horizontale
 
+* Explications
+
 Aujourd'hui la plupart des projets logiciels au sein des
-administrations sont conçus de manière verticale. On conçoit un
+administrations sont conçus de manière verticale.  On conçoit un
 logiciel comme on conçoit un EPR: les objectifs sont trop ambitieux,
 le cahier des charges fait des milliers de ligne, les choix se font en
 vase clos avec peu de consultation des utilisateurs finaux, les
