@@ -1,27 +1,28 @@
-#+title: Internaliser : Gérer la transition numérique et la durabilité des projets
+#+title: Faire soi-même : recruter, former, décloisonner.
 
 # Internaliser : Décloisonner : Ne pas subir.
+# Gérer la transition numérique et la durabilité des projets
 
 * Punchline
 
-*Internaliser* : Monter monter en compétences techniques les agents de
-l'administration
+# *Internaliser* : Faire monter en compétences techniques les agents de
+# l'administration
 
 # Faire de la transition numérique un allier
 
 * Situation passé
 
 L'externalisation des projets informatiques est devenu de plus en plus
-courante au sein des administrations ces dernières années. La
-flexibilité de l'externalisation est en effet attrayante. Mais cette
+courante au sein des administrations ces dernières années.  La
+flexibilité de l'externalisation est en effet attrayante.  Mais cette
 flexibilité cache plusieurs limites.
 
 Le recours à des prestataires nécessite des appels d'offre qui
 prennent en moyenne plus d'un an juste pour la sélection d'un
-partenaire. Toute évolution des système est lente, fastidieuse et
+partenaire.  Toute évolution des système est lente, fastidieuse et
 soumise à des lourdeurs administratives. Dans ces conditions, il est
 difficile pour les système d'information d'évoluer au même rythme que
-les nouveaux technologies et les évolutions métier. 
+les nouveaux technologies et les évolutions métier.
 
 Les DSI ayant un recours systématique aux prestataires accumulent une
 dette technique : ils n'ont plus la main de leur propre SI. Cette
