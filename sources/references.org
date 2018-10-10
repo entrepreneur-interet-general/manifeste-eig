@@ -25,3 +25,8 @@
 
 
 
+
+* Limiter
+
+- Small Is Beautiful: A Study of Economics As If People Mattered,
+  Schumacher ([[https://en.wikipedia.org/wiki/Small_Is_Beautiful][wikipédia]])
