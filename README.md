@@ -21,12 +21,6 @@ du [programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr).
 - Du 25 octobre au 10 novembre : relecture collective et mise en
   forme.
 
-# Notes
-
-Voici les notes prises pendant le « hors-les-murs ».
-
-https://semestriel.framapad.org/p/eig-hors-les-murs-2018
-
 # Plan provisoire
 
 À gauche les liens vers les pads, à droit les liens vers les fichiers
@@ -43,8 +37,9 @@ du répertoire `sources`, où les versions se stabilisent.
 
 Autres éléments :
 
-- https://bimestriel.framapad.org/p/eig-lexique
-- https://bimestriel.framapad.org/p/eig-bibliographie (voir [bibliographie.org](sources/bibliographie.org))
+- https://bimestriel.framapad.org/p/eig-lexique et [glossaire.org](https://github.com/entrepreneur-interet-general/eig-link/blob/master/glossaire.org)
+- https://bimestriel.framapad.org/p/eig-bibliographie et [bibliographie.org](sources/bibliographie.org)
+- [Notes prises pendant le « hors-les-murs »](https://semestriel.framapad.org/p/eig-hors-les-murs-2018)
 
 # Plan d'une page « principe »
 
