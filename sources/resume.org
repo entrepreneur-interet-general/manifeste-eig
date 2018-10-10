@@ -1,0 +1,63 @@
+#+title: Résumé du manifeste EIG
+
+* Qui nous sommes (un paragraphe)
+
+Nous sommes une trentaine de profils de techniciens (datascientistes,
+développeurs, designers).  Nous avons tous eu une expérience
+professionnelle hors de l'administration.  Le programme EIG nous a
+permis de participer à un projet informatique au sein de
+l'administration publique pendant dix mois.  Nous avons croisé nos
+constats, identifié plusieurs problèmes récurrents et nous proposons
+une série de six principes qui ont vocation à guider les décideurs et
+les agents dans la définition et la mise en oeuvre d'un projet
+informatique.
+
+* Articulation des principes
+
+Les principes vont par deux sur trois axes :
+
+- Les principes qui ont surtout trait à la gestion des ressources
+  humaines : *faire soi-même* (recruter, former, décloisonner) et
+  *mobiliser* (impliquer les parties prenantes dans une gouvernance
+  horizontale réactive).
+
+- Les principes qui portent sur la « vision produit » (le niveau
+  stratégique) : *limiter* (réduire le périmètre fonctionnel, la durée
+  et donc les risques) et *améliorer* (privilégier des cycles courts, un
+  maintien continu et une évolution constante).
+
+- Les principes qui portent sur les aspects techniques : *composer*
+  (créer des services interopérables pour gagner en souplesse) et
+  *ouvrir* partager le code source pour mieux communiquer.
+
+On peut imager ça avec un « hexagone vertueux » :
+
+Faire → Limiter → Composer → Mobiliser → Améliorer → Ouvrir
+
+Ça pourrait se lire ainsi :
+
+- Faire soi-même incite à se limiter
+- Se limiter implique de penser en termes de briques composables
+- Des briques composables sont propices à la mobilisation
+- La mobilisation permet une logique d'amélioration continue
+- L'amélioration continue "s'augmente" avec l'ouverture
+
+C'est forcément un peu arbitraire, mais je crois que le résumé doit
+proposer une articulation, d'une façon ou d'une autre, montrant que 
+tout se tient.
+
+* [« Take away » message ?]
+
+- Vous êtes DSI : pouvez-vous faire plus vous-même ?
+
+- Vous êtes chef de projet : pouvez-vous réduire votre projet ?
+
+- Vous êtes tech lead : pouvez-vous retravailler l'interropérabilité ?
+
+- Vous êtes chef d'équipe : pouvez-vous mieux mobiliser ?
+
+- Vous êtes SCRUM master : comment vraiment faire de l'amélioration
+  continue ?
+
+- Vous êtes développeur : que pouvez-vous ouvrir ?
+
