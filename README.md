@@ -1,19 +1,25 @@
 # Manifeste EIG
 
-Ce dépôt contient un brouillon de manifeste des entrepreneur·e·s
+Ce dépôt contient le brouillon du manifeste des entrepreneur·e·s
 d'intérêt général.
 
 Il est collaborativement rédigé par les EIG des différentes promotions
 du [programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr).
 
-Le répertoire `images` contient les photos des notes prises pendant
-l'événement « hors-les-murs ».
+# Élaboration
 
-Les brouillons doivent avancer collaborativement sur les pads et les
-versions stabilisées au fur et à mesure dans le répertoire `sources`.
-
-N'hésitez pas à proposer des améliorations ou à poser des questions en
-ouvrant une issue.
+- Du 6 au 7 septembre : discussions de fond et début de structure
+  (voir le répertoire
+  [images](https://github.com/bzg/manifeste-eig/tree/master/images)
+  qui contient les notes prises lors des ateliers.)
+- 10 septembre : création du dépôt et proposition d'une structure pour
+  préparer le travail collaboratif.
+- 27 septembre : discussions et avancée collaborative sur les pad lors
+  de deux ateliers, puis commit de l'état des pads en fin de journée.
+- Du 10 au 25 octobre : avancée par relectures successives de Bastien,
+  Emmanuel, Victor, Antoine.
+- Du 25 octobre au 10 novembre : relecture collective et mise en
+  forme.
 
 # Notes
 
@@ -42,18 +48,19 @@ Autres éléments :
 
 # Plan d'une page « principe »
 
-- Verbe (e.g. "Mobiliser")
-- Titre (e.g. "Impliquer toutes les parties prenantes d'un projet dans sa gouvernance.")
-- Explicitation :
-  - constat (1 paragraphe)
-  - proposition/horizon (1 paragraphe)
-- Illustration(s)
+- Un verbe (e.g. "Mobiliser")
+- Une phrase (e.g. "Impliquer toutes les parties prenantes d'un projet
+  dans sa gouvernance.")
+- Une partie d'explicitation :
+  - le constat (1 paragraphe)
+  - la proposition (1 paragraphe)
+- Une partie d'illustration (de préférence tirée d'EIG)
 - Une citation d'un EIG ou d'un mentor en lien avec le principe
 
-Voir [cette image](images/presentation-page-engagement.jpg) pour la
-première version proposée lors du « hors-les-murs » de septembre.
-
-# Licence
+# Licence et contribution
 
 Ce document est publié sous licence [Creative Commons by-nd
 4.0](https://creativecommons.org/licenses/by-nd/2.0/fr/).
+
+N'hésitez pas à proposer des améliorations ou à poser des questions en
+ouvrant une issue.
