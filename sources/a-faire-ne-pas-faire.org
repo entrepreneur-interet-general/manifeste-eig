@@ -1,0 +1,23 @@
+#+title: a-faire-ne-pas-faire
+
+* Faire soi-même
+
+** À faire
+
+- Recruter des développeurs et datascientistes et designers dans les DSI
+- Faire monter en compétences les développeurs existants
+- Amener des gens capables de faire monter en compétence les développeurs présents
+- Créer plus d'occasions d'échange entre services métiers et DSI pour la conception des outils
+- Créer plus d'occasions d'échanges entre gens de mêmes métiers d'autres administrations
+- Permettre les expérimentations dev. mais les encadrer pour éviter les fausses promesses, les outils de doublon
+- Accepter l'innovation incrémentale, la techno parfaite n'existe pas
+- Exposer les DSI à des pratiques du monde entrepreneurial 
+
+** À ne pas faire
+
+- Créer de la frustration en n'encadrant pas les expérimentations
+- Placer la barre trop haut (ou au mauvais endroit) sur les exigences de qualité avant mise en production
+- Développer des outils « mammouths »
+- Développer sans prendre en compte les besoins en ergonomie des utilisateurs
+
+

@@ -3,14 +3,26 @@
 # Internaliser : Décloisonner : Ne pas subir.
 # Gérer la transition numérique et la durabilité des projets
 
-* Punchline
+* Idée générale
 
-# *Internaliser* : Faire monter en compétences techniques les agents de
-# l'administration
+- Les agents publics ont besoin de faire évoluer leurs outils
+  informatiques plus facilement, sans lourdeurs administratives
 
-# Faire de la transition numérique un allier
+- [Les agents utilisateurs ont besoin de reprendre le contrôle des
+  systèmes d'information dans l'administration]
 
-* Situation passé
+- Les DSI ont besoin d'adopter plus rapidement les technologies
+  informatiques émergentes
+
+- Les DSI ont besoin de mieux maîtriser les coûts de développement
+
+- Les développeurs des DSI ont besoin d'être plus souvent au contact
+  des métiers
+
+/Tout cela ne peut se faire qu'en internalisant plus de compétences
+informatiques et en décloisonnant les échanges entre DSI et métiers./
+    
+* Situation passée
 
 L'externalisation des projets informatiques est devenu de plus en plus
 courante au sein des administrations ces dernières années.  La
@@ -64,51 +76,12 @@ pratiques avec d'autres administrations.
 
 * Exemples
 
-Internaliser ne veut pas dire que tout est réalisé en interne. Cela
-signifie qu’il y a au moins une personne agissant au nom de
-l’administration à même de maîtriser les enjeux technologiques du
-métier.
+# Internaliser ne veut pas dire que tout est réalisé en interne.  Cela
+# signifie qu’il y a au moins une personne agissant au nom de
+# l’administration à même de maîtriser les enjeux technologiques du
+# métier.
 
-* Précédentes réflexions
-
-** Internaliser et/pour décloisonner
-
-Source : [[https://bimestriel.framapad.org/p/eig-internaliser]]
-
-Titre initial : "Outsourced vs entrepreneurs in house"
-
-*** Phrase qui présente l'idée générale
-
-- Les agents publics ont besoin de faire évoluer leurs outils informatiques plus facilement, sans lourdeurs administratives
-- [Les agents utilisateurs ont besoin de reprendre le contrôle des systèmes d'information dans l'administration]
-- Les DSI ont besoin d'adopter plus rapidement les technologies informatiques émergentes
-- Les DSI ont besoin de mieux maîtriser les coûts de développement
-- Les développeurs des DSI ont besoin d'être plus souvent au contact des métiers
-
-/Tout cela ne peut se faire qu'en internalisant plus de compétences
-informatiques et en décloisonnant les échanges entre DSI et métiers./
-    
-** À faire ou ne pas faire
-
-*** À faire
-
-- Recruter des développeurs et datascientistes et designers dans les DSI
-- Faire monter en compétences les développeurs existants
-- Amener des gens capables de faire monter en compétence les développeurs présents
-- Créer plus d'occasions d'échange entre services métiers et DSI pour la conception des outils
-- Créer plus d'occasions d'échanges entre gens de mêmes métiers d'autres administrations
-- Permettre les expérimentations dev. mais les encadrer pour éviter les fausses promesses, les outils de doublon
-- Accepter l'innovation incrémentale, la techno parfaite n'existe pas
-- Exposer les DSI à des pratiques du monde entrepreneurial 
-
-*** À ne pas faire
-
-- Créer de la frustration en n'encadrant pas les expérimentations
-- Placer la barre trop haut (ou au mauvais endroit) sur les exigences de qualité avant mise en production
-- Développer des outils « mammouths »
-- Développer sans prendre en compte les besoins en ergonomie des utilisateurs
-
-** Exemples concrets via le programme EIG
+# Mettre en musique cette liste d'exemples
 
 - Montée en compétences des agents : formations SQL d'Antoine
 - Montée en compétences des agents : gendarmerie, sensibiliser au design
@@ -118,3 +91,5 @@ informatiques et en décloisonnant les échanges entre DSI et métiers./
 - Hopkins : utilisation de docker
 - SocialConnect, Prédisecours : VueJS
 - Archifiltre : utilisation de la méthode SCRUM pour les itérations du projet, ReactJS
+
+
