@@ -1,13 +1,6 @@
 #+title: Mobiliser : impliquer les parties prenantes dans une gouvernance horizontale réactive
 
-# Source : [[https://bimestriel.framapad.org/p/eig-mobiliser]]
-
-* Punchline
-
-*Mobiliser*: impliquer toutes les parties prenantes d'un projet logiciel
-dans une gouvernance horizontale
-
-* Explications
+* Idée générale
 
 Aujourd'hui la plupart des projets logiciels au sein des
 administrations sont conçus de manière verticale.  On conçoit un
@@ -23,34 +16,11 @@ enfin déployée, elle ne correspond plus aux besoins.
 Au sein du programme EIG, nous pensons qu'il est possible de faire du
 logiciel autrement. Les entreprises du numérique ont montré la voie.
 
-* Brainstorming
-** À faire 
+* Diagnostic (TODO)
 
-- Impliquer les utilisateurs: recueillir des besoins, élaborer des
-  personas, faire preuve d'empathie
-- Inviter aux contributions grâce à:
-  - code ouvert 
-  - suivi de projet (eg Kanboard) publique 
-  - Issue tracker, possibilité de proposer des améliorations 
-- Valoriser les carrières des "doers" sans forcément les promouvoir
-  manager. Nous avons besoin de profils techniques avec de
-  l'expérience.
-- Respecter le rythme de travail des "doers", Cf Paul Grahm =>
-  http://www.paulgraham.com/makersschedule.html.
-- Avancer de manière incrémentale. Publier un MVP le plus rapidement
-  possible pour créer une dynamique. Déployer le produit sur un
-  maximum de postes utilisateurs dès le début.
-- Communiquer le plus possible en faisant des démos
-- Redevabilié et responsabilité d'une équipe sur un projet versus on
-  se rejette la faute les uns sur les autres.
+* Proposition d'avenir (TODO)
 
-** À ne pas faire 
+* Exemple (TODO)
 
-- Rédiger un gros cahier des charges fixe en vase clos entre
-  décideurs.
-- Multiplier les couches de management intermédiaire entre la personne
-  qui produit le code et la personne qui consomme le logiciel.
-  - par ex. Développeur sous traitant > Manager sous traitant > Chef
-    de projet Maitrise d'oeuvre > Référant utilisateurs > Utilisateurs
-- Multiplier les longues réunions. Il est préférable d'organiser des
-  stand-up assez courts
+Archifiltre ?
+

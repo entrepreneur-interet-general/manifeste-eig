@@ -1,8 +1,6 @@
 #+title: Ouvrir : partager le code source pour mieux communiquer
 
-# Source : [[https://bimestriel.framapad.org/p/eig-ouvrir]]
-
-# Propriétaire / opaque vs Open source / transparence
+* Idées générales
 
 L'ouverture des algorithmes et des données est une obligation pour les
 aux administrations qui permet de XXX. Mais aussi :
@@ -13,30 +11,16 @@ aux administrations qui permet de XXX. Mais aussi :
 - renforce leur utilité publique par une plus grande symétrie
   d'information.
 
-** Algo explicable, lisible, accessible, reproductible
-
-Permettre de comprendre les productions de façon claire, précise. 
+Algorithme explicable, lisible, accessible, reproductible : permettre
+de comprendre les productions de façon claire, précise.
 
 - médiation, ouverture code, ouverture données
 - production de données, diffusion du savoir/ des ressources
 - contributions extérieures (github/wikipédia/hackatons etc.),
   rayonnement
 
-** Exemples
-
-- wikipedia ou hackathon
-- Logiciel libre / social connect
-- Transparence :
-
-  - J’informerai de façon compréhensible et précise toutes les parties
-    prenantes sur les finalités, les modalités et les implications potentielles de mon utilisation des données.
-    
-  - Communiquer, ou sinon rappeler aux équipes compétentes, la nécessité
-    de communiquer auprès des personnes concernées, l’usage qui sera
-    fait de leurs données, de la façon la plus claire, explicite et
-    transparente possible.
-
-Construire, accompagner et diffuser des outils et méthodes explicites et réutilisables
+Construire, accompagner et diffuser des outils et méthodes explicites
+et réutilisables.
 
 ** Concrétement
 
@@ -62,3 +46,23 @@ Construire, accompagner et diffuser des outils et méthodes explicites et réuti
 - Compréhension
 - Lisibilité
 - Symétrie (le calculant et calculé puissent discuter de la mm chose)
+
+* Diagnostic (TODO)
+* Proposition d'avenir (TODO)
+* Exemple(s)
+
+TODO: choisir soit un exemple parlant soit une série d'exemples.
+
+- Atelier wikipedia au Mobilier national ?
+- Logiciel libre / social connect
+- Transparence :
+
+  - J’informerai de façon compréhensible et précise toutes les parties
+    prenantes sur les finalités, les modalités et les implications
+    potentielles de mon utilisation des données.
+    
+  - Communiquer, ou sinon rappeler aux équipes compétentes, la
+    nécessité de communiquer auprès des personnes concernées, l’usage
+    qui sera fait de leurs données, de la façon la plus claire,
+    explicite et transparente possible.
+
