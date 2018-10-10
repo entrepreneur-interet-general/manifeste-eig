@@ -1,4 +1,4 @@
-* Améliorer : privilégier des cycles courts, un maintien continu et une évolution constante
+#+title: Améliorer : privilégier des cycles courts, un maintien continu et une évolution constante
 
 # Source : [[https://bimestriel.framapad.org/p/eig-ameliorer]]
 
