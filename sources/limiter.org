@@ -1,4 +1,4 @@
-#+title: Réduire
+#+title: Limiter : réduire le périmètre fonctionnel, la durée et donc les risques
 
 # Source : [[https://bimestriel.framapad.org/p/eig-limiter]]
 
