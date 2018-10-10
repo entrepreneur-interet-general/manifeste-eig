@@ -1,4 +1,4 @@
-#+title: Ouvrir
+#+title: Ouvrir : partager le code source pour mieux communiquer
 
 # Source : [[https://bimestriel.framapad.org/p/eig-ouvrir]]
 
