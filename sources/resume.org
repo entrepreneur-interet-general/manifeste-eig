@@ -46,18 +46,27 @@ C'est forcément un peu arbitraire, mais je crois que le résumé doit
 proposer une articulation, d'une façon ou d'une autre, montrant que 
 tout se tient.
 
-* [« Take away » message ?]
+* Questions clefs
 
-- Vous êtes DSI : pouvez-vous faire plus vous-même ?
+L'administration publique est responsable de ses outils informatiques.
+Elle en assure la maîtrise, la continuité et la pérennité.  Voici une
+liste de questions pour motiver le recours aux principes que nous
+proposons.
 
-- Vous êtes chef de projet : pouvez-vous réduire votre projet ?
+- Mon service peut-il prendre en charge le développement d'un outil
+  indispensable à mon métier au lieu de le confier à un tiers ?
 
-- Vous êtes tech lead : pouvez-vous retravailler l'interropérabilité ?
+- Le périmètre de l'outil que nous développons a-t-il été réduit au
+  strict nécessaire ?
 
-- Vous êtes chef d'équipe : pouvez-vous mieux mobiliser ?
+- L'outil que nous développons a-t-il été conçu pour s'interfacer avec
+  des outils existants et pour exposer des données structurées ?
 
-- Vous êtes SCRUM master : comment vraiment faire de l'amélioration
-  continue ?
+- Tous les profils d'utilisateurs de l'outil ont-ils été impliqués
+  dans sa conception ?  Sont-ils impliqués dans des tests continus ?
 
-- Vous êtes développeur : que pouvez-vous ouvrir ?
+- Le code source de l'outil que nous développons est il ouvert ?
+  Publions-nous une feuille de route et guidons-nous les contributeurs
+  potentiels vers les contributions qui nous importent ?
 
+Ces questions peuvent être posées par tout le monde à tout moment.
