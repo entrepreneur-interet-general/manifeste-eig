@@ -5,22 +5,29 @@
 
 * Idée générale
 
-- Les agents publics ont besoin de faire évoluer leurs outils
-  informatiques plus facilement, sans lourdeurs administratives
+Les outils numériques occupent le quotidien des agents publics
+et permettent à ces agents de réaliser leurs missions. Ces outils
+sont au coeur du travail et les agents ressentent le besoin de
+s'approprier les systèmes d'information. Ces utilisateurs ont
+besoin de faire évoluer leurs outils informatiques pour
+répondre aux besoins changeants de leurs missions et expriment le
+souhait de voir évoluer leurs outils informatiques plus facilement,
+sans d'importants délais et lourdeurs administratives.
 
-- [Les agents utilisateurs ont besoin de reprendre le contrôle des
-  systèmes d'information dans l'administration]
+Les attentes des utilisateurs concernant les outils numériques sont
+grandes, étant exposés à des logiciels de grande qualité dans leur
+usage du numérique dans la sphère privée. Ainsi, les DSI ont besoin
+d'adopter plus rapidement les technologies informatiques émergentes
+pour pouvoir proposer des outils attrayants. Dans la même idée, il
+apparaît comme souhaitable de conserver une relation de proximité
+entre les développeurs et le métier pour co-construire des outils
+pertinents pour l'utilisateur final. Enfin, la maîtrise des coûts
+reste un enjeu majeur pour le développement d'outils numériques.
 
-- Les DSI ont besoin d'adopter plus rapidement les technologies
-  informatiques émergentes
-
-- Les DSI ont besoin de mieux maîtriser les coûts de développement
-
-- Les développeurs des DSI ont besoin d'être plus souvent au contact
-  des métiers
-
-/Tout cela ne peut se faire qu'en internalisant plus de compétences
-informatiques et en décloisonnant les échanges entre DSI et métiers./
+Tout cela ne peut se faire qu'en internalisant plus de compétences
+informatiques, en décloisonnant les échanges entre DSI et métiers ou
+en s'assurant que des personnes en interne soient impliquées et
+comprennent en détail la partie du travail externalisée.
 
 * Situation passée
 
@@ -40,11 +47,11 @@ Les DSI ayant un recours systématique aux prestataires accumulent une
 dette technique : ils n'ont plus la main de leur propre SI. Cette
 dette entraîne une relation de dépendance malsaine avec un acteur
 extérieur dont l'objectif est de maximiser ses revenus. Dans les
-faits, la maintenance et les évolutions du projet sont souvent sous
-estimé.
+faits, la maintenance et les évolutions du projet sont souvent
+sous-estimé.
 
 Pendant la réalisation d'un projet informatique, une grande partie de
-la valeur créé l'est dans les cerveaux de ceux qui le réalisent. La
+la valeur créée l'est dans les cerveaux de ceux qui le réalisent. La
 compréhension du métier, des besoins, des systèmes et des données ont
 une valeur très précieuse bien que difficilement quantifiable. Quand
 les prestataires finissent le projet, toute cette valeur quitte
@@ -52,22 +59,22 @@ l'administration.
 
 * Proposition pour l'avenir
 
-Les besoins SI change fréquemment et nécessite l’intégration constante
+Les besoins SI changent fréquemment et nécessitent l’intégration constante
 de nouvelles connaissances et technologies. Une réinternalisation des
 compétences informatiques permet de piloter de façon plus efficace le
 système informatique de l'administration au sens large. Cela permet
 une meilleure flexibilité qui évite de coûteuses renégociations ou des
 difficultés d’intégration de ces nouvelles connaissances par des
-prestataires externes. Egalement les couts liées à l'interopérabilité
-des différentes outils informatiques utilisés sont considérablement
-diminué. Cette réinternalisation doit être accompagne par une montée
+prestataires externes. Par ailleurs, les coûts liés à l'interopérabilité
+des différents outils informatiques utilisés sont considérablement
+diminués. Cette réinternalisation doit être accompagnée par une montée
 en compétence du personnel interne ainsi que par le recrutement de
-nouveaux talents, notamment des développeurs, des datascientistes et
-des designers dans les DSI .
+nouveaux talents, notamment des développeurs, des data scientists et
+des designers dans les DSI.
 
 Le programme EIG permet à la fois de démontrer la viabilité d'un
 réinternalisation ainsi que d'intégrer de façon temporaire dans
-l'administration des professionnelles capables de faire monter en
+l'administration des professionnels capables de faire monter en
 compétence les développeurs internes. Cela permet aussi d'exposer les
 DSI à des pratiques du monde entrepreneurial. Le programme donne
 l'occasion d'échanger entre services métiers et DSI pour la conception
@@ -75,7 +82,6 @@ des outils ainsi que de mutualiser les méthodes, outils et les
 pratiques avec d'autres administrations.
 
 * Exemples
-
 Internaliser ne veut pas dire que tout est réalisé en interne. Cela
 signifie qu'il y a au moins une personne agissant au nom de
 l’administration à même de maîtriser les enjeux technologiques du
