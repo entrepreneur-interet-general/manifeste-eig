@@ -26,14 +26,14 @@ du [programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr).
 À gauche les liens vers les pads, à droit les liens vers les fichiers
 du répertoire `sources`, où les versions se stabilisent.
 
-- Voir [introduction.org](sources/introduction.org))
-- Voir [rendre-generique.org](sources/rendre-generique.org))
-- Voir [mobiliser.org](sources/mobiliser.org))
-- Voir [limiter.org](sources/limiter.org))
-- Voir [ouvrir.org](sources/ouvrir.org))
-- Voir [internaliser.org](sources/internaliser.org))
-- Voir [ameliorer.org](sources/ameliorer.org))
-- Voir [conclusion.org](sources/conclusion.org))
+- Voir [introduction.org](sources/introduction.org)
+- Voir [rendre-generique.org](sources/rendre-generique.org)
+- Voir [mobiliser.org](sources/mobiliser.org)
+- Voir [limiter.org](sources/limiter.org)
+- Voir [ouvrir.org](sources/ouvrir.org)
+- Voir [internaliser.org](sources/internaliser.org)
+- Voir [ameliorer.org](sources/ameliorer.org)
+- Voir [conclusion.org](sources/conclusion.org)
 
 Autres éléments :
 
