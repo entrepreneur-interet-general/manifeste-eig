@@ -17,7 +17,7 @@ sans d'importants délais et lourdeurs administratives.
 Les attentes des utilisateurs concernant les outils numériques sont
 grandes, étant exposés à des logiciels de grande qualité dans leur
 usage du numérique dans la sphère privée. Ainsi, les DSI ont besoin
-d'adopter plus rapidement les technologies informatiques émergente
+d'adopter plus rapidement les technologies informatiques émergentes
 pour pouvoir proposer des outils attrayants. Dans la même idée, il
 apparaît comme souhaitable de conserver une relation de proximité
 entre les développeurs et le métier pour co-construire des outils
