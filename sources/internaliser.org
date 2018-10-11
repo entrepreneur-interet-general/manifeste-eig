@@ -85,6 +85,5 @@ Dans le cadre du programme EIG, plusieurs défis ont organisé des
 formations (R pour Lab Santé et SQL pour Prédisauvetage), expérimenté
 des technologies émergentes (VueJS pour SocialConnect et Prédisecours,
 Docker pour Hopkins, ReactJS pour Archifiltre et Swagger pour Brigade Numérique)
-et ont sensibilisé l'administration à des méthodes de conduite de projets
-ou à l'importance du design (SCRUM pour Archifiltre et sensibiliser
-au design pour Brigade Numérique).
+et ont sensibilisé l'administration à des méthodes de conduite de projet (l'agile
+pour ArchiFiltre) ou à l'importance du design pour Brigade Numérique.
