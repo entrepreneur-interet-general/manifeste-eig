@@ -27,7 +27,7 @@ du [programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr).
 du répertoire `sources`, où les versions se stabilisent.
 
 - https://bimestriel.framapad.org/p/eig-introduction (voir [introduction.org](sources/introduction.org))
-- https://bimestriel.framapad.org/p/eig-rendre-generique (voir [rendre-generique.org](sources/rendre-generique.org))
+- https://bimestriel.framapad.org/p/eig-composer (voir [composer.org](sources/composer.org))
 - https://bimestriel.framapad.org/p/eig-mobiliser (voir [mobiliser.org](sources/mobiliser.org))
 - https://bimestriel.framapad.org/p/eig-limiter (voir [limiter.org](sources/limiter.org))
 - https://bimestriel.framapad.org/p/eig-ouvrir (voir [ouvrir.org](sources/ouvrir.org))
