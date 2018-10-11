@@ -5,23 +5,28 @@
 
 * Idée générale
 
-- Les agents publics ont besoin de faire évoluer leurs outils
-  informatiques plus facilement, sans lourdeurs administratives
+Les outils numériques occupent le quotidien des agents publics
+et permettent à ces agents de réaliser leurs missions. Ces outils
+sont au coeur du travail et les agents ressentent le besoin de
+s'approprier les systèmes d'information. Ces utilisateurs ont
+besoin de faire évoluer leurs outils informatiques pour
+répondre aux besoins changeants de leurs missions et expriment le
+souhait de voir évoluer leurs outils informatiques plus facilement,
+sans d'importants délais et lourdeurs administratives.
 
-- [Les agents utilisateurs ont besoin de reprendre le contrôle des
-  systèmes d'information dans l'administration]
+Les attentes des utilisateurs concernant les outils numériques sont
+grandes, étant exposés à des logiciels de grande qualité dans leur
+usage du numérique dans la sphère privée. Ainsi, les DSI ont besoin
+d'adopter plus rapidement les technologies informatiques émergente
+pour pouvoir proposer des outils attrayants. Dans la même idée, il
+apparaît comme souhaitable de conserver une relation de proximité
+entre les développeurs et le métier pour co-construire des outils
+pertinents pour l'utilisateur final. Enfin, la maîtrise des coûts
+reste un enjeu majeur pour le développement d'outils numériques.
 
-- Les DSI ont besoin d'adopter plus rapidement les technologies
-  informatiques émergentes
+Tout cela ne peut se faire qu'en internalisant plus de compétences
+informatiques et en décloisonnant les échanges entre DSI et métiers.
 
-- Les DSI ont besoin de mieux maîtriser les coûts de développement
-
-- Les développeurs des DSI ont besoin d'être plus souvent au contact
-  des métiers
-
-/Tout cela ne peut se faire qu'en internalisant plus de compétences
-informatiques et en décloisonnant les échanges entre DSI et métiers./
-    
 * Situation passée
 
 L'externalisation des projets informatiques est devenu de plus en plus
