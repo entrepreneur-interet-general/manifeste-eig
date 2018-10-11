@@ -25,7 +25,9 @@ pertinents pour l'utilisateur final. Enfin, la maîtrise des coûts
 reste un enjeu majeur pour le développement d'outils numériques.
 
 Tout cela ne peut se faire qu'en internalisant plus de compétences
-informatiques et en décloisonnant les échanges entre DSI et métiers.
+informatiques, en décloisonnant les échanges entre DSI et métiers ou
+en s'assurant que des personnes en interne soient impliquées et
+comprennent en détail la partie du travail externalisée.
 
 * Situation passée
 
