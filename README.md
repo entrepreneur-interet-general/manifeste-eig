@@ -26,14 +26,14 @@ du [programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr).
 À gauche les liens vers les pads, à droit les liens vers les fichiers
 du répertoire `sources`, où les versions se stabilisent.
 
-- Voir [introduction.org](sources/introduction.org)
-- Voir [rendre-generique.org](sources/rendre-generique.org)
-- Voir [mobiliser.org](sources/mobiliser.org)
-- Voir [limiter.org](sources/limiter.org)
-- Voir [ouvrir.org](sources/ouvrir.org)
-- Voir [internaliser.org](sources/internaliser.org)
-- Voir [ameliorer.org](sources/ameliorer.org)
-- Voir [conclusion.org](sources/conclusion.org)
+- https://bimestriel.framapad.org/p/eig-introduction (voir [introduction.org](sources/introduction.org))
+- https://bimestriel.framapad.org/p/eig-rendre-generique (voir [rendre-generique.org](sources/rendre-generique.org))
+- https://bimestriel.framapad.org/p/eig-mobiliser (voir [mobiliser.org](sources/mobiliser.org))
+- https://bimestriel.framapad.org/p/eig-limiter (voir [limiter.org](sources/limiter.org))
+- https://bimestriel.framapad.org/p/eig-ouvrir (voir [ouvrir.org](sources/ouvrir.org))
+- https://bimestriel.framapad.org/p/eig-internaliser (voir [internaliser.org](sources/internaliser.org))
+- https://bimestriel.framapad.org/p/eig-ameliorer (voir [ameliorer.org](sources/ameliorer.org))
+- https://bimestriel.framapad.org/p/eig-conclusion (voir [conclusion.org](sources/conclusion.org))
 
 Autres éléments :
 
