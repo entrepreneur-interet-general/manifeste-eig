@@ -1,14 +1,9 @@
-#+title: Rendre générique
+#+title: Composer : créer des services interopérables pour gagner en souplesse
 
-# Source : [[https://bimestriel.framapad.org/p/eig-rendre-generique]]
+* Idées générales
 
-# PLutôt « composer » ? Mieux vaut 1000 fonctions pour un jeu de
-# données que mille jeux de données.  -- Peter Norvig?
-
-* Baseline
-
-Rendre générique: créer des composants logiciels plutôt que des
-applications monolithiques
+- Rendre générique : créer des composants logiciels plutôt que des
+  applications monolithiques
 
 - « Votre besoin est très certainement celui de quelqu'un d'autre,
   demain ou aujourd'hui »
@@ -19,9 +14,7 @@ applications monolithiques
 
 - " On peut réinventer la roue, à condition qu'elle soit ronde..."
 
-* Mise en situation
-
-** Diagnostic / constat
+* Diagnostic / constat
 
 Un projet avec une composante numérique part en général de
 l'expression d'un besoin métier précis : une cible d'utilisateurs ou
@@ -59,7 +52,7 @@ de réutilisation de sa solution afin de toucher une communauté plus
 large, mais il est tout aussi essentiel de pouvoir arbitrer entre les
 besoins métiers et leur effort de généralisation.
 
-* Proposition
+* Proposition d'avenir
 
 Nous proposons dans cette partie quelques principes permettant à des
 porteurs de projets numériques d'entamer une réflexion à la fois sur
@@ -142,6 +135,8 @@ d'arbitrer dans leur gestion de projet.
   différences métier d'un outil générique
 
 * Exemples concrets
+
+TODO: choisir un ou plusieurs exemple(s) EIG ?
 
 - tester une solution de prédiction sur une région dans l'idée de
   pouvoir la dupliquer à l'échelle nationale : PrévisSecours (repo)

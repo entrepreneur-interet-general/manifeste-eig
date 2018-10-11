@@ -1,11 +1,6 @@
-* Améliorer ou remplacer (replace vs enhance)
+#+title: Améliorer : privilégier des cycles courts, un maintien continu et une évolution constante
 
-# Source : [[https://bimestriel.framapad.org/p/eig-ameliorer]]
-
-** Punchline
-
-L'amélioration suppose des itérations sur des cycles courts, un
-maintien continu de la solution et une évolution permanente.
+* Idée générale
 
 Le besoin de remplacement apparaît en général lorsque la dette
 technique est trop importante, que la solution n'a pas évolué depuis
@@ -14,58 +9,25 @@ développement de la version actuelle ont changé de poste, et qu'on
 préfère repartir de zéro (aussi pour se dire que le nouveau chef
 apporte du changement... non du remplacement).
 
-** Intro & concepts
+Se placer dans une logique d'amélioration demande de s'opposer à la
+logique statique de la souscription à un produit pour X années,
+produit souvent intégré par des prestataires, entraînant une forte
+dépendance technique et rendant difficiles les évolutions à venir.
 
-Cet essai propose d'illustrer la différence entre les logiques de
-remplacement et d'amélioration.
+* Diagnostic et proposition pour l'avenir
 
-La logique d'amélioration s'appuie sur la gestion de versions, avec la
-notation Va.b.c a = major, b = minor, c = patch.
-
-Cette pensée s'oppose à la logique statique de souscrire un produit
-pour X années, souvent produit et intégré par des prestataires, d'où
-une forte dette technique, ainsi lorsqu'on veut le faire évoluer, on
-fait un nouvel appel d'offre pour trouver une solution qui répond au
-besoin, entre temps les équipes ont changé, autrement dit on repart
-de 0.
-
- : Attention Replace & Enhance sont incompatibles, selon cette SSII
- : https://www.stonebranch.com/replace-and-enhance/ on peut acheter un
- : service pour remplacer OU améliorer notre solution actuelle, dans ce
- : cas améliorer sous-entend ajouter une nouvelle solution en parallèle
- : de la solution actuelle, ce qui va seulement ajouter de la
- : complexité.
-
-** Conséquences : 
-
-- cycles d'évolution courts (issues, itérations fréquentes sur la base
+- Cycles d'évolution courts (issues, itérations fréquentes sur la base
   des bugs remontés et améliorations proposées) vs longs
 
-- coûts : réguliers et faibles (qqETP, UX/UI remontés par les
+- Coûts : réguliers et faibles (qqETP, UX/UI remontés par les
   utilisateurs) vs très élevés rarement (rares parce que très élevés)
   long processus de définition des besoins, du cahier des charges
   avant de réaliser (ou sélectionner) le produit
 
-- dette technique : risque si départ des personnes compétentes mais
+- Dette technique : risque si départ des personnes compétentes mais
   documenté et code dispo en interne vs systématique.
-    
-** Lien extérieurs    
 
-- https://www.evidenceinmotion.com/blog/2017/03/26/repeal-and-replace-vs-tweak-and-improve/
-
-- Affordable Care Act (ACA) => So our only viable option is the ACA
-  improved (Medicare has been improved hundreds of times since 1965)
-  with critical analysis of it’s coverage of all
-    
-- Est-ce qu'un algorithme doit automatiser ie remplacer l'intervention
-  humaine ou l'améliorer avec des outils d'aide à la décision ?
-  https://www.brookings.edu/blog/education-plus-development/2018/06/11/the-new-humanism-technology-should-enhance-not-replace-human-interactions/
-
-- Le risque d'un "outil d'aide à la décision" c'est qu'il recommande
-  une solution et que l'intervention humaine consiste simplement à
-  valider, systématiquement, la première recommandation.
-    
-** Cas d'usage
+* Exemple
 
 http://www.data.drees.sante.gouv.fr cette solution web HTML4 s'appuie
 sur un framework web commercial Beyong20/20, impossible de le faire

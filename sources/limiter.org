@@ -1,17 +1,16 @@
-#+title: Réduire
+#+title: Limiter : réduire le périmètre fonctionnel, la durée et donc les risques
 
-# Source : [[https://bimestriel.framapad.org/p/eig-limiter]]
+* Idée générale 
 
-* Réduire la taille des projets informatiques
+La taille des projets informatiques est inversement proportionnelle à
+leur chance d'aboutir. Or, il n'est pas rare de voir, dans
+l'administration, des projets informatiques de plusieurs dizaines de
+millions d'euros et la tendance est à l'augmentation de la taille de
+ces projets [FIXME: référence ?].
 
-Récemment la taille des projets informatiques a considérablement
-augmenté. Il n'est pas rare de voir des projets informatiques de
-plusieurs dizaines de millions d'euros dans l'administration. Souvent
-ces projets ambitieux ne tiennent pas leurs promesses.
+* Diagnostic : 
 
-* Risques des grands projets
-
-** Grande taille humaine 
+** Grande taille humaine
 
 - Plus on ajoute de personnes dans un projet, plus le coût de
   coordination augmente.
@@ -33,7 +32,7 @@ ces projets ambitieux ne tiennent pas leurs promesses.
   à l'échec : on a déjà investi X millions dans ce nouveau système on
   ne peut plus reculer
 
-* Recommandations
+* Proposition d'avenir : "Small is beautiful"
 
 Ce n'est pas simple, mais casser un gros projet en de plus petit
 projets incrémentales fonctionnels et valorisables indépendamment.
@@ -41,11 +40,10 @@ projets incrémentales fonctionnels et valorisables indépendamment.
 Pratiquer le pre-mortem : imaginer toutes les raisons qui ferait qu'un
 projet ne fonctionnerait pas.
 
-* Exemple de trop grand projet
+[bzg: Attention à ne pas trop verser du côté de la "composition".]
 
-- Le logiciel louvois de paiement des salaires dans l'armée :
-  cf. [[https://www.zdnet.fr/actualites/la-defense-solde-ses-comptes-avec-le-logiciel-louvois-39795761.htm][article zdnet.fr]]
-  
-- Exemple de projet de taille réduit : voir sur https://beta.gouv.fr
+* Exemple de projet EIG scalable
+
+Le logiciel de diffusion des collections du défi Gobelins.
    
 

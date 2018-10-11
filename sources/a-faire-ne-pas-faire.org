@@ -1,0 +1,57 @@
+#+title: a-faire-ne-pas-faire
+
+* Faire soi-même
+
+** À faire
+
+- Recruter des développeurs et datascientistes et designers dans les DSI
+- Faire monter en compétences les développeurs existants
+- Amener des gens capables de faire monter en compétence les développeurs présents
+- Créer plus d'occasions d'échange entre services métiers et DSI pour la conception des outils
+- Créer plus d'occasions d'échanges entre gens de mêmes métiers d'autres administrations
+- Permettre les expérimentations dev. mais les encadrer pour éviter les fausses promesses, les outils de doublon
+- Accepter l'innovation incrémentale, la techno parfaite n'existe pas
+- Exposer les DSI à des pratiques du monde entrepreneurial 
+
+** À ne pas faire
+
+- Créer de la frustration en n'encadrant pas les expérimentations
+- Placer la barre trop haut (ou au mauvais endroit) sur les exigences de qualité avant mise en production
+- Développer des outils « mammouths »
+- Développer sans prendre en compte les besoins en ergonomie des utilisateurs
+
+
+
+* Mobiliser
+
+** À faire 
+
+- Impliquer les utilisateurs: recueillir des besoins, élaborer des
+  personas, faire preuve d'empathie
+- Inviter aux contributions grâce à:
+  - code ouvert 
+  - suivi de projet (eg Kanboard) publique 
+  - Issue tracker, possibilité de proposer des améliorations 
+- Valoriser les carrières des "doers" sans forcément les promouvoir
+  manager. Nous avons besoin de profils techniques avec de
+  l'expérience.
+- Respecter le rythme de travail des "doers", Cf Paul Grahm =>
+  http://www.paulgraham.com/makersschedule.html.
+- Avancer de manière incrémentale. Publier un MVP le plus rapidement
+  possible pour créer une dynamique. Déployer le produit sur un
+  maximum de postes utilisateurs dès le début.
+- Communiquer le plus possible en faisant des démos
+- Redevabilié et responsabilité d'une équipe sur un projet versus on
+  se rejette la faute les uns sur les autres.
+
+** À ne pas faire 
+
+- Rédiger un gros cahier des charges fixe en vase clos entre
+  décideurs.
+- Multiplier les couches de management intermédiaire entre la personne
+  qui produit le code et la personne qui consomme le logiciel.
+  - par ex. Développeur sous traitant > Manager sous traitant > Chef
+    de projet Maitrise d'oeuvre > Référant utilisateurs > Utilisateurs
+- Multiplier les longues réunions. Il est préférable d'organiser des
+  stand-up assez courts
+
