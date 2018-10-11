@@ -45,11 +45,11 @@ Les DSI ayant un recours systématique aux prestataires accumulent une
 dette technique : ils n'ont plus la main de leur propre SI. Cette
 dette entraîne une relation de dépendance malsaine avec un acteur
 extérieur dont l'objectif est de maximiser ses revenus. Dans les
-faits, la maintenance et les évolutions du projet sont souvent sous
-estimé.
+faits, la maintenance et les évolutions du projet sont souvent
+sous-estimé.
 
 Pendant la réalisation d'un projet informatique, une grande partie de
-la valeur créé l'est dans les cerveaux de ceux qui le réalisent. La
+la valeur créée l'est dans les cerveaux de ceux qui le réalisent. La
 compréhension du métier, des besoins, des systèmes et des données ont
 une valeur très précieuse bien que difficilement quantifiable. Quand
 les prestataires finissent le projet, toute cette valeur quitte
@@ -57,22 +57,22 @@ l'administration.
 
 * Proposition pour l'avenir
 
-Les besoins SI change fréquemment et nécessite l’intégration constante
+Les besoins SI changent fréquemment et nécessitent l’intégration constante
 de nouvelles connaissances et technologies. Une réinternalisation des
 compétences informatiques permet de piloter de façon plus efficace le
 système informatique de l'administration au sens large. Cela permet
 une meilleure flexibilité qui évite de coûteuses renégociations ou des
 difficultés d’intégration de ces nouvelles connaissances par des
-prestataires externes. Egalement les couts liées à l'interopérabilité
-des différentes outils informatiques utilisés sont considérablement
-diminué. Cette réinternalisation doit être accompagne par une montée
+prestataires externes. Par ailleurs, les coûts liés à l'interopérabilité
+des différents outils informatiques utilisés sont considérablement
+diminués. Cette réinternalisation doit être accompagnée par une montée
 en compétence du personnel interne ainsi que par le recrutement de
-nouveaux talents, notamment des développeurs, des datascientistes et
-des designers dans les DSI .
+nouveaux talents, notamment des développeurs, des data scientists et
+des designers dans les DSI.
 
 Le programme EIG permet à la fois de démontrer la viabilité d'un
 réinternalisation ainsi que d'intégrer de façon temporaire dans
-l'administration des professionnelles capables de faire monter en
+l'administration des professionnels capables de faire monter en
 compétence les développeurs internes. Cela permet aussi d'exposer les
 DSI à des pratiques du monde entrepreneurial. Le programme donne
 l'occasion d'échanger entre services métiers et DSI pour la conception
@@ -96,5 +96,3 @@ pratiques avec d'autres administrations.
 - Hopkins : utilisation de docker
 - SocialConnect, Prédisecours : VueJS
 - Archifiltre : utilisation de la méthode SCRUM pour les itérations du projet, ReactJS
-
-
