@@ -8,29 +8,29 @@ l'administration, des projets informatiques de plusieurs dizaines de
 millions d'euros et la tendance est à l'augmentation de la taille de
 ces projets [FIXME: référence ?].
 
-* Diagnostic : 
+* Diagnostic
 
-** Grande taille humaine
+En rajoutant des parties prenantes à un projet on ajoute mécaniquement
+une complexité managériale très coûteuse sur le long terme. La
+multiplication des interlocuteurs engendre un risque important de
+perdre le lien avec l' utilisateur final.
 
-- Plus on ajoute de personnes dans un projet, plus le coût de
-  coordination augmente.
-- Risque de perte du lien utilisateur
+Plus un projet grandit, plus il devient compliqué d'être réactif, le
+temps entre chaque itération augmentant lui aussi pour de multiples
+raisons (coordination, sécurité, politique interne...). Il est alors
+plus difficile d'être certain de répondre au mieux aux besoins
+utilisateurs. Des frustrations internes apparaissent également puisque
+le temps nécessaire pour voir le résultat du travail accompli
+augmente.  A l'heure où les technologies et les méthodes évoluent très
+vite dans l'informatique, en allongeant en parallèle les cycles de
+production on prend le risque d'utiliser des technologies et méthodes
+obsolètes compromettant ainsi l'avenir de la solution développée.
 
-** Grande taille temporelle
-
-- Grand temps d'itération. Risque de ne pas répondre au besoin
-  utilisateur.
-- Risque de frustration devant le temps avoir d'avoir les premiers
-  résultats
-- Temps long dans le domaine de l'informatique où le rythme
-  d'évolution est rapide. Risque d'obsolescence des technologies
-  utilisées
-
-** Grande taille financière
-
-- Escalade de l'engagement, il est difficile d'arrêter un projet voué
-  à l'échec : on a déjà investi X millions dans ce nouveau système on
-  ne peut plus reculer
+Enfin, un projet important qui aura nécessité des sommes conséquentes
+sera d'autant plus difficile à abandonner malgré des résultats
+médiocres constatés.  Ce phénomène bien connu d'escalade de
+l'engagement, empêche l'analyse objective d'un projet et conduit à
+prendre de mauvaises décisions.
 
 * Proposition d'avenir : "Small is beautiful"
 
@@ -59,5 +59,6 @@ Les contre-parties de cette ambition limitée : les EIG ont exploré
 à fond la question des publics et ont proposé un outil que d'autres
 musées pourront réadapter à leurs besoins.
 
-   
-
+Les contre-parties de cette ambition limitée : les EIG ont exploré à
+fond la question des publics et ont proposé un outil que d'autres
+musées pourront réadapter à leurs besoins.

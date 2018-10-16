@@ -14,29 +14,69 @@ logique statique de la souscription à un produit pour X années,
 produit souvent intégré par des prestataires, entraînant une forte
 dépendance technique et rendant difficiles les évolutions à venir.
 
-* Diagnostic et proposition pour l'avenir
+* Diagnostic
 
-- Cycles d'évolution courts (issues, itérations fréquentes sur la base
-  des bugs remontés et améliorations proposées) vs longs
+# FIXME: rédiger le tableau de façon lisible
 
-- Coûts : réguliers et faibles (qqETP, UX/UI remontés par les
-  utilisateurs) vs très élevés rarement (rares parce que très élevés)
-  long processus de définition des besoins, du cahier des charges
-  avant de réaliser (ou sélectionner) le produit
+# | Concept         | Amélioration                                                                                                                                                                              | Remplacement                                                                                                                                                                                                                                           |
+# | Cycle de vie    | Le processus d'amélioration est associé à des cycles d'évolution courts (remontée de bug et de demandes d'amélioration par les utilisateurs, itérations fréquentes pour les implémenter). | A l'inverse, le processus de remplacement s'impose dans un contexte de construction d'une "expression du besoin", suivi d'une rédaction d'un "cahier des charges" puis de phases de recette avant de délivrer (plusieurs années plus tard) un produit. |
+# | Coûts           | Réguliers et faibles (qqETP, UX/UI remontés par les utilisateurs)                                                                                                                         | Rares et élevés                                                                                                                                                                                                                                        |
+# | Dette technique | Un risque apparaît en cas de départ de toutes les personnes compétentes, sinon un produit documenté et dont le code source est disponible permettent une réappropriation de l'outil       | Le développement est en général sous-traité et réalisé dans une technologie propriétaire ie le code n'est pas disponible. La dette technique est donc systématique.                                                                                    |
 
-- Dette technique : risque si départ des personnes compétentes mais
-  documenté et code dispo en interne vs systématique.
+* Proposition pour l'avenir
 
-* Exemple
+Nous recommandons une approche itérative et continue visant à délivrer
+une première version minimale du produit rapidement mais avec une
+vision ie en s'appuyant d'emblée sur la technologie pertinente pour
+les ambitions du produit. Par exemple si le produit vise une grande
+audience, il faut anticiper le passage à l'échelle en choisissant une
+architecture adaptée. Pour les perfectionnistes : ces contraintes ont
+un coût il est donc nécessaire de bien mesurer ses ambitions et ne pas
+choisir les technologies les plus robustes et les plus performantes
+PAR DEFAUT. En effet, ces technologies sont souvent les moins adaptées
+au développement rapide d'une "première version minimale du produit".
 
-http://www.data.drees.sante.gouv.fr cette solution web HTML4 s'appuie
-sur un framework web commercial Beyong20/20, impossible de le faire
-évoluer librement, tout est facturé.
+* Exemples
 
-EMBLEM => R, lorsque je teste un outil commercial ou opensource, je
-découvre de nouvelles façon d'explorer, visualiser, modéliser les
-données.  Pour les intégrer/implémenter/reproduire, il n'est pas
-nécessaire de changer de solution ie remplacer la solution actuelle.
-On peut implémenter la fonctionnalité (développement AXAML) ou créer
-une API entre un outil et un autre (library R/Python, exemple des
-dataviz D3.js).
+** Le site de la DREES
+
+[Passé]
+
+Le site web de la [[http://www.data.drees.sante.gouv.fr][DREES]] est une solution web HTML4 qui s'appuie sur un
+framework web commercial. Par conséquent il est impossible de le faire
+évoluer librement, tout est facturé et les développement ne peuvent
+être effectués que par une seule entreprise.
+
+[Présent]
+
+Aujourd'hui la DREES souhaite utiliser une autre solution pour exposer
+ces données afin d'exposer ses données de façon structurée et de
+gagner en référencement sur les moteurs de recherche.
+
+[À venir]
+
+Afin de réaliser ce site, on privilégie des solutions open source et
+une ouverture du code du site afin de le rendre plus évolutif.
+
+** Enrichissement d'un outil
+
+Dans la branche spécifique de la tarificaton en assurance, on calibre
+des modèles linéaires généralisés afin d'ajuster la prime aux risques.
+Pour cela, certains assureurs utilisent des outils commerciaux "clef
+en main" et qui fonctionnent en "clic-bouton". Aucune amélioration ou
+appropriation n'est possible. Le retour à des langages de
+programmation, par exemple R, a été douloureux pour les statisticiens
+qui ne savent plus coder. Néanmoins, lorsque je teste un outil
+alternatif (soit-il fermé ou ouvert), je découvre de nouvelles façon
+d'explorer, visualiser, modéliser les données.
+
+- Si j'utilise une solution propriétaire et que je suis séduit par les
+  fonctionnalités d'une autre solution.  Je dois soit changer de
+  solution soit utiliser les 2.
+
+- Si j'utilise une solution open source et que je suis séduit par les
+  fonctionnalités d'une autre solution.  Je peux intégrer ces méthodes
+  et idées, il n'est pas nécessaire de changer de solution, i.e.
+  remplacer la solution actuelle.  On peut implémenter la
+  fonctionnalité ou créer une API entre un outil et un autre.
+

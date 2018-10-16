@@ -1,7 +1,7 @@
 #+include: sources/introduction.org
 #+include: sources/limiter.org
 #+include: sources/ameliorer.org
-#+include: sources/rendre-generique.org
+#+include: sources/composer.org
 #+include: sources/ouvrir.org
 #+include: sources/mobiliser.org
 #+include: sources/internaliser.org
