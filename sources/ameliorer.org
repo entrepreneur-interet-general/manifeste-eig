@@ -23,7 +23,7 @@ dépendance technique et rendant difficiles les évolutions à venir.
 
 * Proposition pour l'avenir
 
-Nous recommandons une approche itérative et continue visant à délivrer une première version minimale du produit rapidement MAIS avec une vision ie en s'appuyant d'emblée sur la technologie pertinente pour les ambitions du produit. Par exemple si le produit vise une grande audience, il faut anticiper le passage à l'échelle en choisissant une architecture adaptée. Pour les perfectionnistes : ces contraintes ont un coût il est donc nécessaire de bien mesurer ses ambitions et ne pas choisir les technologies les plus robustes et les plus performantes PAR DEFAUT. En effet, ces technologies sont souvent les moins adaptées au développement rapide d'une "première version minimale du produit".
+Nous recommandons une approche itérative et continue visant à délivrer une première version minimale du produit rapidement mais avec une vision ie en s'appuyant d'emblée sur la technologie pertinente pour les ambitions du produit. Par exemple si le produit vise une grande audience, il faut anticiper le passage à l'échelle en choisissant une architecture adaptée. Pour les perfectionnistes : ces contraintes ont un coût il est donc nécessaire de bien mesurer ses ambitions et ne pas choisir les technologies les plus robustes et les plus performantes PAR DEFAUT. En effet, ces technologies sont souvent les moins adaptées au développement rapide d'une "première version minimale du produit".
 
 * Exemples
 
