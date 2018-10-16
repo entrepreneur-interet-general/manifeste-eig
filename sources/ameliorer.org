@@ -38,44 +38,45 @@ au développement rapide d'une "première version minimale du produit".
 
 * Exemples
 
-** Data.drees
+** Le site de la DREES
 
-Passé : Le site web http://www.data.drees.sante.gouv.fr est une
-solution web HTML4 qui s'appuie sur un framework web commercial
-Beyond20/20. Par conséquent il est impossible de le faire évoluer
-librement, tout est facturé et les développement ne peuvent être
-effectués que par l'entreprise Beyond2020.  Présent : Aujourd'hui la
-DREES souhaite utiliser une autre solution pour exposer ces données
-afin de pouvoir intégrer des points API et un meilleur référencement
-sur les moteurs de recherche. [Technique] En effet sur le site actuel,
-les chargements de donnée s'effectuent par éxecution de javascript <a
-href="javascipt:mafonction(id_du_document)>" qui ne sont pas indexés
-par les moteurs de recherche.  A venir : afin de réaliser ce site, on
-privilégie des solutions open source et une ouverture du code du site
-afin de le rendre plus évolutif.
+[Passé]
+
+Le site web de la [[http://www.data.drees.sante.gouv.fr][DREES]] est une solution web HTML4 qui s'appuie sur un
+framework web commercial. Par conséquent il est impossible de le faire
+évoluer librement, tout est facturé et les développement ne peuvent
+être effectués que par une seule entreprise.
+
+[Présent]
+
+Aujourd'hui la DREES souhaite utiliser une autre solution pour exposer
+ces données afin d'exposer ses données de façon structurée et de
+gagner en référencement sur les moteurs de recherche.
+
+[À venir]
+
+Afin de réaliser ce site, on privilégie des solutions open source et
+une ouverture du code du site afin de le rendre plus évolutif.
 
 ** Enrichissement d'un outil
 
 Dans la branche spécifique de la tarificaton en assurance, on calibre
-des modèles linéaires généralisés afin d'ajuster la prime aux
-risques. Pour cela, certains assureurs utilisent des outils
-commerciaux "clef en main" et qui fonctionnent en
-"clic-bouton". Aucune amélioration ou appropriation n'est possible. Le
-retour à des langages de programmation, par exemple R, a été
-douloureux pour les statisticiens qui ne savent plus coder. Néanmoins,
-lorsque je teste un outil alternatif (soit-il commercial ou
-opensource), je découvre de nouvelles façon d'explorer, visualiser,
-modéliser les données.
+des modèles linéaires généralisés afin d'ajuster la prime aux risques.
+Pour cela, certains assureurs utilisent des outils commerciaux "clef
+en main" et qui fonctionnent en "clic-bouton". Aucune amélioration ou
+appropriation n'est possible. Le retour à des langages de
+programmation, par exemple R, a été douloureux pour les statisticiens
+qui ne savent plus coder. Néanmoins, lorsque je teste un outil
+alternatif (soit-il fermé ou ouvert), je découvre de nouvelles façon
+d'explorer, visualiser, modéliser les données.
 
 - Si j'utilise une solution propriétaire et que je suis séduit par les
-  fonctionnalités d'une autre solution. Je dois soit changer de
+  fonctionnalités d'une autre solution.  Je dois soit changer de
   solution soit utiliser les 2.
 
 - Si j'utilise une solution open source et que je suis séduit par les
-  fonctionnalités d'une autre solution. Je peux intégrer ces méthodes
-  et idées, il n'est pas nécessaire de changer de solution ie
-  remplacer la solution actuelle. On peut implémenter la
-  fonctionnalité ou créer une API entre un outil et un autre. Exemples
-  leaflet, keras ou xgboost disposent d'API bas niveau (command-line,
-  javascript) et d'API sur des langages open source (R, Python).
+  fonctionnalités d'une autre solution.  Je peux intégrer ces méthodes
+  et idées, il n'est pas nécessaire de changer de solution, i.e.
+  remplacer la solution actuelle.  On peut implémenter la
+  fonctionnalité ou créer une API entre un outil et un autre.
 
