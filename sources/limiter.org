@@ -31,7 +31,7 @@ d'autant plus difficile à abandonner malgré des résultats médiocres constat�
 Ce phénomène bien connu d'escalade de l'engagement, empêche l'analyse objective 
 d'un projet et conduit à prendre de mauvaises décisions.
 
-Le récent abandon du système global de gestion de resources humaines 
+Le récent abandon du système global de gestion de ressources humaines 
 "SIRHEN" du minitère de l'Education Nationale, après près de 10 années
 de développement pour un coût total de 320 millions d'euros, est 
 malheureusement le parfait exemple d'un projet qui est devenu par sa taille 
