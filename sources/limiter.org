@@ -8,34 +8,29 @@ l'administration, des projets informatiques de plusieurs dizaines de
 millions d'euros et la tendance est à l'augmentation de la taille de
 ces projets [FIXME: référence ?].
 
-* Diagnostic : 
+* Diagnostic
 
 En rajoutant des parties prenantes à un projet on ajoute mécaniquement
-une complexité managériale très coûteuse sur le long terme. La multiplication
-des interlocuteurs engendre un risque important de perdre le lien avec l'
-utilisateur final.
+une complexité managériale très coûteuse sur le long terme. La
+multiplication des interlocuteurs engendre un risque important de
+perdre le lien avec l' utilisateur final.
 
-Plus un projet grandit, plus il devient compliqué d'être réactif,
-le temps entre chaque itération augmentant lui aussi pour de
-multiples raisons (coordination, sécurité, politique interne...). Il est
-alors plus difficile d'être certain de répondre au mieux aux besoins
-utilisateurs. Des frustrations internes apparaissent également puisque le 
-temps nécessaire pour voir le résultat du travail accompli augmente.
-A l'heure où les technologies et les méthodes évoluent très vite 
-dans l'informatique, en allongeant en parallèle les cycles de 
+Plus un projet grandit, plus il devient compliqué d'être réactif, le
+temps entre chaque itération augmentant lui aussi pour de multiples
+raisons (coordination, sécurité, politique interne...). Il est alors
+plus difficile d'être certain de répondre au mieux aux besoins
+utilisateurs. Des frustrations internes apparaissent également puisque
+le temps nécessaire pour voir le résultat du travail accompli
+augmente.  A l'heure où les technologies et les méthodes évoluent très
+vite dans l'informatique, en allongeant en parallèle les cycles de
 production on prend le risque d'utiliser des technologies et méthodes
 obsolètes compromettant ainsi l'avenir de la solution développée.
 
-Enfin, un projet important qui aura nécessité des sommes conséquentes sera
-d'autant plus difficile à abandonner malgré des résultats médiocres constatés. 
-Ce phénomène bien connu d'escalade de l'engagement, empêche l'analyse objective 
-d'un projet et conduit à prendre de mauvaises décisions.
-
-Le récent abandon du système global de gestion de ressources humaines 
-"SIRHEN" du minitère de l'Education Nationale, après près de 10 années
-de développement pour un coût total de 320 millions d'euros, est 
-malheureusement le parfait exemple d'un projet qui est devenu par sa taille 
-au fil du temps ingérable. 
+Enfin, un projet important qui aura nécessité des sommes conséquentes
+sera d'autant plus difficile à abandonner malgré des résultats
+médiocres constatés.  Ce phénomène bien connu d'escalade de
+l'engagement, empêche l'analyse objective d'un projet et conduit à
+prendre de mauvaises décisions.
 
 * Proposition d'avenir : "Small is beautiful"
 
@@ -57,12 +52,9 @@ des données qui les concernent (images, descriptions, etc.)
 Le défi EIG 2 du Mobilier national s'est concentré sur la conception
 et le développement d'une interface de diffusion et de valorisation.
 La problématique de la gestion des collections a été laissée de côté,
-et l'interface de diffusion a été conçue pour être paramétrable et
-se connecter à d'autres outils.
+et l'interface de diffusion a été conçue pour être paramétrable et se
+connecter à d'autres outils.
 
-Les contre-parties de cette ambition limitée : les EIG ont exploré
-à fond la question des publics et ont proposé un outil que d'autres
+Les contre-parties de cette ambition limitée : les EIG ont exploré à
+fond la question des publics et ont proposé un outil que d'autres
 musées pourront réadapter à leurs besoins.
-
-   
-
