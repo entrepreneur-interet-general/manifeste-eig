@@ -21,7 +21,7 @@ du [programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr).
 - Le 11 octobre, avancée en groupe lors de la session d'accompagnement.
 - Du 25 octobre au 10 novembre : relecture collective et mise en
   forme.
-
+  
 # Plan d'une page « principe »
 
 - Un verbe (e.g. "Mobiliser")
