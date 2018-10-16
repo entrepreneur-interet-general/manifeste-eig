@@ -7,53 +7,32 @@ l'administration.
 
 * Introduction
 
-** [Qui nous sommes]
+[Nous sommes qui]
 
-Nous sommes designers, datascientistes, développeurs.  Nous venons de
-la recherche, des start-ups ou de l'entreprise traditionnelle.  Nous
-avons des parcours d'ingénieurs ou de sciences humaines.  Notre goût
-pour les technologies du Web s'est mêlé tôt à notre sens civique, et
-nous consacrons du temps à des associations ou à des projets de biens
-communs numériques.
+Nous sommes designers, datascientistes, développeurs. Nous venons de la recherche, de start-ups, ou d'entreprise de toute taille. Nous avons des parcours d'ingénieurs ou de sciences humaines. Notre goût pour les technologies du Web s'est mêlé tôt à notre sens civique, et nous consacrons du temps à des projets d'utilité sociale, comme des associations, ou à des projets de biens communs numériques.
 
-Le programme « Entrepreneur·e d'intérêt général », porté par la
-mission Etalab de la DINSIC, nous a permis de mettre nos compétences
-techniques au service de l'administration publique pendant dix mois,
-au contact d'agents publics désireux de transformer leur utilisation
-de l'informatique.  Nous avons mis en commun nos expériences et nous
-avons convergé vers quelques principes qui nous paraissent pouvoir
-guider la transformation de l'administration par le numérique.
+Nous sommes 28 et nous relevons un défi en binôme ou en trinôme au sein de l'État. Nous avons été recruté dans le cadre du programme « Entrepreneur·e d'intérêt général ». Ce programme est porté par la mission Etalab de la DINSIC - Direction interministérielle du numérique et du système d'information et de communication de l'État. Ce programme nous a permis de mettre nos compétences humaines, techniques et artistique au service de l'administration publique pendant dix mois. Nous travaillons avec des agents publics désireux de transformer leur administration et leurs outils numérique. Après une mise en commun de nos expériences respectives, nous souhaitons vous partager six principes qui nous parraissent important dans le cadre d'une transformation numérique de notre administration.
 
-** [Quel message nous portons - les principes]
+[Notre vision]
 
-Voici la vision que nous proposons : des projets informatiques de
-taille réduite, avec des composants les plus génériques possibles, et
-une approche par amélioration continue ; des projets s'appuyant sur
-des ressources internalisées pour permettre de nouvelles formes de
-mobilisation et d'ouverture.
+Nous pensons qu'il est important de réaliser des projets informatiques de taille réduite, avec des composants les plus génériques possibles, dans une approche par amélioration continue. Ces projets s'appuyant sur des ressources internalisées peuvent permettre de nouvelles formes de mobilisation et d'ouverture.
 
 [Ordre suggéré pour les sections : réduire ; rendre générique ;
 améliorer ; internaliser ; mobiliser ; ouvrir.]
 
-** [À qui s'adresse ce manifeste]
+[À qui s'adresse ce manifeste ?]
 
-Ce manifeste s'adresse en priorité aux décideurs politiques et aux
-agents publics en charge de la transformation des politiques publics
-par le numérique.  Plus largement, il vise tous les citoyens ayant,
-comme nous, à coeur d'améliorer le service publique, et s'intéressant
-aux nouvelles possibilités offertes par les outils numériques.
+Ce manifeste s'adresse en priorité aux décideurs politiques et aux agents publics en charge de la transformation des politiques publics par le numérique. Et plus largement, il vise aussi tous les citoyens ayant, comme nous, à coeur d'améliorer le service publique, s'intéressant aux nouvelles possibilités offertes par les outils numériques.
 
-** [Notre objectif en publiant ce manifeste]
+[Ce que ce manifeste n'est pas ?]
+
+Ce retour d'experience est un retour d'exépérience.
+
+Il y a moins d'un an nous étions ignorant du fonctionnement de l'administration publique. Nous vous partageons ici notre retour d'expérience. Ce n'est donc pas une feuille de route ou une méthode à suivre pour réussir votre projet. Mais plutôt des principes que nous souhaitons vous partager.
+
+[Notre objectif en publiant ce manifeste]
 
 [Avoir un discours qui sort du "solutionisme"]
 
-Nous ne croyons pas que le numérique soit une « solution » : notre
-perspective n'est pas celle de l'efficacité administrative mais celle
-du sens que les agents publics trouvent dans leurs missions, missions
-dont l'évaluation revient aux citoyens-usagers.  Et nous croyons que
-la transformation numérique est le meilleur moyen de redonner du sens
-à cette action, en créant plus de lien entre l'administration et ses
-citoyens-usagers
-
-** [Ce que ce manifeste n'est pas ?]
+Nous croyons en une administration au service des citoyens. Nous croyons que la transformation numérique est un moyen important pour redonner du sens aux missions de l'agents public et, nous aimons le sens que ces agents publics trouvent dans leurs missions. De plus, nous pensons qu'il est nécéssaire de sortir du « solutionisme » numérique. Enfin nous pensons qu'une nouvelle collaboration est possible entre les acteurs privés et publics dont nous sommes aujourd'hui un exemple. 
    
