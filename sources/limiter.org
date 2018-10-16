@@ -52,8 +52,12 @@ des données qui les concernent (images, descriptions, etc.)
 Le défi EIG 2 du Mobilier national s'est concentré sur la conception
 et le développement d'une interface de diffusion et de valorisation.
 La problématique de la gestion des collections a été laissée de côté,
-et l'interface de diffusion a été conçue pour être paramétrable et se
-connecter à d'autres outils.
+et l'interface de diffusion a été conçue pour être paramétrable et
+se connecter à d'autres outils.
+
+Les contre-parties de cette ambition limitée : les EIG ont exploré
+à fond la question des publics et ont proposé un outil que d'autres
+musées pourront réadapter à leurs besoins.
 
 Les contre-parties de cette ambition limitée : les EIG ont exploré à
 fond la question des publics et ont proposé un outil que d'autres
