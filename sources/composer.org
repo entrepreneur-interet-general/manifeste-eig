@@ -2,39 +2,41 @@
 
 * Idées générales
 
-Imaginez un instant qu'en marchant dans la rue avec un.e ami.e, vous 
-tombez dans une faille spatio-temporelle, et vous retrouvez 
-subitement transporté.e à la pré-histoire. Votre ami.e a été 
-également transporté.e, mais pas de trace de lui/elle à l'horizon.
+# FIXME: voir s'il est utile d'introduire d'une façon aussi imagée.
 
-Votre premier instinct, la survie, vous pousse à vous fondre dans la 
-petite tribu près de votre point d'atterrissage, et à fonder un 
-semblant de vie stable. Après quelques semaines, vous vous 
-préoccupez sérieusement de retrouver votre ami.e. Pour ce faire, 
-est-ce que votre première idée est de ré-inventer la voiture ? 
-Non. Pourquoi est-ce une idée saugrenue ?
+# Imaginez un instant qu'en marchant dans la rue avec un.e ami.e, vous
+# tombez dans une faille spatio-temporelle, et vous retrouvez subitement
+# transporté.e à la pré-histoire. Votre ami.e a été également
+# transporté.e, mais pas de trace de lui/elle à l'horizon.
 
-D'abord, parce que la tâche est évidemment herculéenne. Vous n'avez 
-ni les ressources, ni le savoir-faire pour faire un tel saut 
-technologique.
+# Votre premier instinct, la survie, vous pousse à vous fondre dans la 
+# petite tribu près de votre point d'atterrissage, et à fonder un 
+# semblant de vie stable. Après quelques semaines, vous vous 
+# préoccupez sérieusement de retrouver votre ami.e. Pour ce faire, 
+# est-ce que votre première idée est de ré-inventer la voiture ? 
+# Non. Pourquoi est-ce une idée saugrenue ?
 
-Ensuite, parce que vous avez regardé autour de vous. Vous avez une 
-longueur de vue en plus sur vos nouveaux voisins, venant du futur. 
-Vous pourriez certes leur faire profiter d'une voiture, mais telle 
-quelle, qu'en feraient-ils ? Ils bénéficieraient largement plus 
-d'innovations individuelles : avec la roue, ils pourraient déplacer 
-de lourdes charges. En apprenant à tanner le cuir comme pour vos 
-sièges, ils pourraient se faire de bons habits. En fabriquant de 
-la peinture comme sur votre carosserie, ils découvriraient de 
-nouvelles formes d'expression artistique.
+# D'abord, parce que la tâche est évidemment herculéenne. Vous n'avez 
+# ni les ressources, ni le savoir-faire pour faire un tel saut 
+# technologique.
 
-Créer des composants génériques bénéficie immensément plus à la 
-communauté que construire une solution entière d'un seul coup, car 
-votre besoin est très certainement celui de quelqu'un d'autre, 
-demain ou aujourd'hui. D'ailleurs, votre problème d'aujourd'hui, 
-quelqu'un l'a probablement rencontré auparavant, et pourrait avoir 
-beaucoup de choses à vous apprendre. Dans le meilleur des cas, un 
-composant essentiel à votre solution existe même déjà...
+# Ensuite, parce que vous avez regardé autour de vous. Vous avez une 
+# longueur de vue en plus sur vos nouveaux voisins, venant du futur. 
+# Vous pourriez certes leur faire profiter d'une voiture, mais telle 
+# quelle, qu'en feraient-ils ? Ils bénéficieraient largement plus 
+# d'innovations individuelles : avec la roue, ils pourraient déplacer 
+# de lourdes charges. En apprenant à tanner le cuir comme pour vos 
+# sièges, ils pourraient se faire de bons habits. En fabriquant de 
+# la peinture comme sur votre carosserie, ils découvriraient de 
+# nouvelles formes d'expression artistique.
+
+Créer des composants génériques bénéficie plus à la communauté que de
+construire une solution entière d'un seul coup, car votre besoin est
+très certainement celui de quelqu'un d'autre, demain ou aujourd'hui.
+D'ailleurs, votre problème d'aujourd'hui, quelqu'un l'a probablement
+rencontré auparavant et pourrait avoir beaucoup de choses à vous
+apprendre.  Dans le meilleur des cas, un composant essentiel à votre
+solution existe même déjà.
 
 * Diagnostic / constat
 
@@ -155,6 +157,7 @@ d'arbitrer dans leur gestion de projet.
 
 - Utiliser une DSL (Domain Specific Language) pour exprimer les
   différences métier d'un outil générique
+
 
 * Exemples concrets
 
