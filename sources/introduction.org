@@ -9,25 +9,26 @@ l'administration.
 
 [Nous sommes qui]
 
-Nous sommes designers, datascientistes, développeurs. Nous venons de
+Nous sommes 28 designers, data scientistes, développeur·euse·s. Nous venons de
 la recherche, de start-ups, ou d'entreprise de toute taille. Nous
-avons des parcours d'ingénieurs ou de sciences humaines. Notre goût
+avons des parcours d'ingénieurs ou de sciences humaines.
+
+Nous sommes 28 citoyens, soucieux du bien commun. Notre goût
 pour les technologies du Web s'est mêlé tôt à notre sens civique, et
 nous consacrons du temps à des projets d'utilité sociale, comme des
-associations, ou à des projets de biens communs numériques.
+associations, ou à des projets de bien commun numérique.
 
-Nous sommes 28 et nous relevons un défi en binôme ou en trinôme au
-sein de l'État. Nous avons été recrutés dans le cadre du programme «
-Entrepreneur·e d'intérêt général ». Ce programme est porté par la
-mission Etalab de la DINSIC - Direction interministérielle du
+Nous sommes 28 « Entrepreneur·e·s d'intérêt général » : recrutés par la
+mission Etalab de la DINSIC [Direction interministérielle du
 numérique et du système d'information et de communication de
-l'État. Ce programme nous a permis de mettre nos compétences humaines,
-techniques et créatives au service de l'administration publique
-pendant dix mois. Nous travaillons avec des agents publics désireux de
-transformer leur administration et leurs outils numériques.  Après une
-mise en commun de nos expériences respectives, nous souhaitons vous
-partager six principes qui nous parraissent importants dans le cadre
-d'une transformation numérique de notre administration.
+l'État], nous avons relevé pendant dix mois un défi au sein de l'État, 
+en binôme ou en trinôme. Nous avons mis nos compétences humaines,
+techniques et créatives au service d'agents publics désireux de
+transformer leur administration et leurs outils numériques.
+
+Au terme de nos expériences, nous avons fait la synthèse de principes 
+que nous jugeons fondamentaux pour assurer le succès de la transition 
+numérique de l'État, et nous souhaitons vous les partager.
 
 [Notre vision]
 
