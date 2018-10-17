@@ -22,11 +22,11 @@ Entrepreneur·e d'intérêt général ». Ce programme est porté par la
 mission Etalab de la DINSIC - Direction interministérielle du
 numérique et du système d'information et de communication de
 l'État. Ce programme nous a permis de mettre nos compétences humaines,
-techniques et artistique au service de l'administration publique
+techniques et créatives au service de l'administration publique
 pendant dix mois. Nous travaillons avec des agents publics désireux de
 transformer leur administration et leurs outils numériques.  Après une
 mise en commun de nos expériences respectives, nous souhaitons vous
-partager six principes qui nous parraissent important dans le cadre
+partager six principes qui nous parraissent importants dans le cadre
 d'une transformation numérique de notre administration.
 
 [Notre vision]
@@ -53,7 +53,7 @@ numériques.
 
 Ce retour d'experience est un retour d'exépérience.
 
-Il y a moins d'un an nous étions ignorant du fonctionnement de
+Il y a moins d'un an nous ignorions le fonctionnement de
 l'administration publique. Nous vous partageons ici notre retour
 d'expérience. Ce n'est donc pas une feuille de route ou une méthode à
 suivre pour réussir votre projet. Mais plutôt des principes que nous
