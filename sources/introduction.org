@@ -38,7 +38,7 @@ par le numérique. Plus largement, il vise tous les citoyens
 ayant à coeur, comme nous, d'améliorer le service public, notamment 
 grâce aux nouveaux horizons du numérique.
 
-[Mise en garde]
+[Note d'intention]
 
 Notre message s'articule en une série de constats et de recommandations. 
 Avant d'y plonger, faisons un rappel essentiel.
@@ -56,6 +56,10 @@ le plus court chemin d'un problème à sa solution. Il ne coûte pas rien.
 De même, les conseils que nous transmettons dans ce manifeste n'ont rien 
 d'absolu. Ils ne remplaceront pas votre esprit critique, et ne s'adapteront 
 pas à toutes les situations.
+
+Notre espoir, en publiant ce document, est d'ouvrir un espace d'échange et 
+de dialogue entre tous ceux qui se retrouvent dans nos constats, et qui 
+sont curieux de mettre en œuvre les axes que nous proposons.
 
 [Notre vision]
 
