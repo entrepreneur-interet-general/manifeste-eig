@@ -7,7 +7,7 @@ l'administration.
 
 * Introduction
 
-[Nous sommes qui]
+[Qui sommes-nous ?]
 
 Nous sommes 28 designers, data scientistes, développeur·euse·s. Nous venons de
 la recherche, de start-ups, ou d'entreprise de toute taille. Nous
@@ -30,46 +30,42 @@ Au terme de nos expériences, nous avons fait la synthèse de principes
 que nous jugeons fondamentaux pour assurer le succès de la transition 
 numérique de l'État, et nous souhaitons vous les partager.
 
-[Notre vision]
-
-Nous pensons qu'il est important de réaliser des projets informatiques
-de taille réduite, avec des composants les plus génériques possibles,
-dans une approche par amélioration continue. Ces projets s'appuyant
-sur des ressources internalisées peuvent permettre de nouvelles formes
-de mobilisation et d'ouverture.
-
-[Ordre suggéré pour les sections : réduire ; rendre générique ;
-améliorer ; internaliser ; mobiliser ; ouvrir.]
-
 [À qui s'adresse ce manifeste ?]
 
 Ce manifeste s'adresse en priorité aux décideurs politiques et aux
 agents publics en charge de la transformation des politiques publics
-par le numérique. Et plus largement, il vise aussi tous les citoyens
-ayant, comme nous, à coeur d'améliorer le service publique,
-s'intéressant aux nouvelles possibilités offertes par les outils
-numériques.
+par le numérique. Plus largement, il vise tous les citoyens
+ayant à coeur, comme nous, d'améliorer le service public, notamment 
+grâce aux nouveaux horizons du numérique.
 
-[Ce que ce manifeste n'est pas ?]
+[Mise en garde]
 
-Ce retour d'experience est un retour d'exépérience.
+Notre message s'articule en une série de constats et de recommandations. 
+Avant d'y plonger, faisons un rappel essentiel.
 
-Il y a moins d'un an nous ignorions le fonctionnement de
-l'administration publique. Nous vous partageons ici notre retour
-d'expérience. Ce n'est donc pas une feuille de route ou une méthode à
-suivre pour réussir votre projet. Mais plutôt des principes que nous
-souhaitons vous partager.
+Le numérique est un outil.
 
-[Notre objectif en publiant ce manifeste]
+C'est un outil phénoménal, de par la diversité des problèmes qu'il permet 
+de résoudre, de par son efficacité, son évolution constante. Mais il ne 
+sera jamais plus que cela : un outil. Comme tout outil, utilisé à mauvais 
+escient, il peut s'avérer inutile, voire contre-productif, voire néfaste.
 
-[Avoir un discours qui sort du "solutionisme"]
+Le numérique n'est pas une baguette magique. Il n'est pas systématiquement 
+le plus court chemin d'un problème à sa solution. Il ne coûte pas rien.
 
-Nous croyons en une administration au service des citoyens. Nous
-croyons que la transformation numérique est un moyen important pour
-redonner du sens aux missions de l'agents public et, nous aimons le
-sens que ces agents publics trouvent dans leurs missions. De plus,
-nous pensons qu'il est nécéssaire de la pensée magique à l'égard du
-numérique : il n'est pas une panacée.  Enfin nous pensons qu'une
-nouvelle collaboration est possible entre les acteurs privés et
-publics dont nous sommes aujourd'hui un exemple.
-   
+De même, les conseils que nous transmettons dans ce manifeste n'ont rien 
+d'absolu. Ils ne remplaceront pas votre esprit critique, et ne s'adapteront 
+pas à toutes les situations.
+
+[Notre vision]
+
+Nous estimons que les projets numériques les plus susceptibles de réussir 
+sont ceux qui regroupent les caractéristiques suivantes :
+
+Ils sont *de taille réduite*, utilisent des *composants les plus génériques 
+possibles*, dans une approche par *amélioration continue*. S'appuyant sur 
+des *ressources internalisées*, ils permettent de nouvelles formes de 
+*mobilisation* et d'*ouverture*.
+
+[Ordre suggéré pour les sections : réduire ; rendre générique ;
+améliorer ; internaliser ; mobiliser ; ouvrir.]
