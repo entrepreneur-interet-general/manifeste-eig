@@ -23,9 +23,6 @@
   une solution et que l'intervention humaine consiste simplement à
   valider, systématiquement, la première recommandation.
 
-
-
-
 * Limiter
 
 - Small Is Beautiful: A Study of Economics As If People Mattered,
