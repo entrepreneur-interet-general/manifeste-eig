@@ -1,17 +1,19 @@
 * Conclusion
 
-Source : [[https://bimestriel.framapad.org/p/eig-conclusion]]
+# Source : [[https://bimestriel.framapad.org/p/eig-conclusion]]
 
-[Une citation pour finir]
+# FIXME: acter qu'on utilise le resume.org comme conclusion et
+# dire comment on utilise cette partie avec les citations ?
 
-[propositions de citations]
-
-"Ça ne peut pas se faire du jour au lendemain !"
-"Non, mais on peut avoir commencé, du jour au lendemain."
+"Ça ne peut pas se faire du jour au lendemain !"  "Non, mais on peut
+avoir commencé, du jour au lendemain."
 - Isaac Asimov
 
-"La phrase la plus excitante à entendre en science, celle qui annonce de nouvelles découvertes, n'est pas «Eureka» (j'ai trouvé!), mais plutôt «Tiens, c'est marrant...»"
+"La phrase la plus excitante à entendre en science, celle qui annonce
+de nouvelles découvertes, n'est pas «Eureka» (j'ai trouvé!), mais
+plutôt «Tiens, c'est marrant...»"
 - Isaac Asimov
 
-"N'interrompez jamais quelqu'un qui est en train de faire quelque chose que vous aviez dite impossible."
+"N'interrompez jamais quelqu'un qui est en train de faire quelque
+chose que vous aviez dite impossible."
 - Amelia Earhart
