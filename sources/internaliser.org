@@ -3,16 +3,18 @@
 # Internaliser : Décloisonner : Ne pas subir.
 # Gérer la transition numérique et la durabilité des projets
 
+# FIXME: relire pour voir si on peut condenser un peu.
+
 * Idée générale
 
-Les outils numériques occupent le quotidien des agents publics
-et permettent à ces agents de réaliser leurs missions. Ces outils
-sont au coeur du travail et les agents ressentent le besoin de
-s'approprier les systèmes d'information. Ces utilisateurs ont
-besoin de faire évoluer leurs outils informatiques pour
-répondre aux besoins changeants de leurs missions et expriment le
-souhait de voir évoluer leurs outils informatiques plus facilement,
-sans d'importants délais et lourdeurs administratives.
+Les outils numériques occupent le quotidien des agents publics et
+permettent à ces agents de réaliser leurs missions. Ces outils sont au
+coeur du travail et les agents ressentent le besoin de s'approprier
+les systèmes d'information. Ces utilisateurs ont besoin de faire
+évoluer leurs outils informatiques pour répondre aux besoins
+changeants de leurs missions et expriment le souhait de voir évoluer
+leurs outils informatiques plus facilement, sans d'importants délais
+et lourdeurs administratives.
 
 Les attentes des utilisateurs concernant les outils numériques sont
 grandes, étant exposés à des logiciels de grande qualité dans leur
@@ -59,18 +61,19 @@ l'administration.
 
 * Proposition pour l'avenir
 
-Les besoins SI changent fréquemment et nécessitent l’intégration constante
-de nouvelles connaissances et technologies. Une réinternalisation des
-compétences informatiques permet de piloter de façon plus efficace le
-système informatique de l'administration au sens large. Cela permet
-une meilleure flexibilité qui évite de coûteuses renégociations ou des
-difficultés d’intégration de ces nouvelles connaissances par des
-prestataires externes. Par ailleurs, les coûts liés à l'interopérabilité
-des différents outils informatiques utilisés sont considérablement
-diminués. Cette réinternalisation doit être accompagnée par une montée
-en compétence du personnel interne ainsi que par le recrutement de
-nouveaux talents, notamment des développeurs, des data scientists et
-des designers dans les DSI.
+Les besoins SI changent fréquemment et nécessitent l’intégration
+constante de nouvelles connaissances et technologies. Une
+réinternalisation des compétences informatiques permet de piloter de
+façon plus efficace le système informatique de l'administration au
+sens large. Cela permet une meilleure flexibilité qui évite de
+coûteuses renégociations ou des difficultés d’intégration de ces
+nouvelles connaissances par des prestataires externes. Par ailleurs,
+les coûts liés à l'interopérabilité des différents outils
+informatiques utilisés sont considérablement diminués. Cette
+réinternalisation doit être accompagnée par une montée en compétence
+du personnel interne ainsi que par le recrutement de nouveaux talents,
+notamment des développeurs, des data scientists et des designers dans
+les DSI.
 
 Le programme EIG permet à la fois de démontrer la viabilité d'un
 réinternalisation ainsi que d'intégrer de façon temporaire dans
@@ -82,6 +85,7 @@ des outils ainsi que de mutualiser les méthodes, outils et les
 pratiques avec d'autres administrations.
 
 * Exemples
+
 Internaliser ne veut pas dire que tout est réalisé en interne. Cela
 signifie qu'il y a au moins une personne agissant au nom de
 l’administration à même de maîtriser les enjeux technologiques du
@@ -90,6 +94,7 @@ métier.
 Dans le cadre du programme EIG, plusieurs défis ont organisé des
 formations (R pour Lab Santé et SQL pour Prédisauvetage), expérimenté
 des technologies émergentes (VueJS pour SocialConnect et Prédisecours,
-Docker pour Hopkins, ReactJS pour Archifiltre et Swagger pour Brigade Numérique)
-et ont sensibilisé l'administration à des méthodes de conduite de projet (l'agile
-pour ArchiFiltre) ou à l'importance du design pour Brigade Numérique.
+Docker pour Hopkins, ReactJS pour Archifiltre et Swagger pour Brigade
+Numérique) et ont sensibilisé l'administration à des méthodes de
+conduite de projet (l'agile pour ArchiFiltre) ou à l'importance du
+design pour Brigade Numérique.
