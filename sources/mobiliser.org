@@ -18,9 +18,15 @@ logiciel autrement. Les entreprises du numérique ont montré la voie.
 
 * Diagnostic (TODO)
 
+# FIXME: rédiger à partir du "à ne pas faire" dans le fichier
+# a-faire-ne-pas-faire.org
+
 * Proposition d'avenir (TODO)
+
+# FIXME: rédiger à partir du "à faire" dans le fichier
+# a-faire-ne-pas-faire.org
 
 * Exemple (TODO)
 
-Archifiltre ?
+# FIXME: choisir l'exemple : Archifiltre ?
 
