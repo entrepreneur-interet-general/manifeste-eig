@@ -4,31 +4,7 @@
 
 # FIXME: voir s'il est utile d'introduire d'une façon aussi imagée.
 
-# Imaginez un instant qu'en marchant dans la rue avec un.e ami.e, vous
-# tombez dans une faille spatio-temporelle, et vous retrouvez subitement
-# transporté.e à la pré-histoire. Votre ami.e a été également
-# transporté.e, mais pas de trace de lui/elle à l'horizon.
-
-# Votre premier instinct, la survie, vous pousse à vous fondre dans la 
-# petite tribu près de votre point d'atterrissage, et à fonder un 
-# semblant de vie stable. Après quelques semaines, vous vous 
-# préoccupez sérieusement de retrouver votre ami.e. Pour ce faire, 
-# est-ce que votre première idée est de ré-inventer la voiture ? 
-# Non. Pourquoi est-ce une idée saugrenue ?
-
-# D'abord, parce que la tâche est évidemment herculéenne. Vous n'avez 
-# ni les ressources, ni le savoir-faire pour faire un tel saut 
-# technologique.
-
-# Ensuite, parce que vous avez regardé autour de vous. Vous avez une 
-# longueur de vue en plus sur vos nouveaux voisins, venant du futur. 
-# Vous pourriez certes leur faire profiter d'une voiture, mais telle 
-# quelle, qu'en feraient-ils ? Ils bénéficieraient largement plus 
-# d'innovations individuelles : avec la roue, ils pourraient déplacer 
-# de lourdes charges. En apprenant à tanner le cuir comme pour vos 
-# sièges, ils pourraient se faire de bons habits. En fabriquant de 
-# la peinture comme sur votre carosserie, ils découvriraient de 
-# nouvelles formes d'expression artistique.
+# FIXME: condenser les parties trop longues.
 
 Créer des composants génériques bénéficie plus à la communauté que de
 construire une solution entière d'un seul coup, car votre besoin est
@@ -60,7 +36,7 @@ adaptées et faire gagner du temps dans le développement du projet, et
 ces personnes pourraient demain les mêmes qui seraient en mesure de
 contribuer et d'améliorer les solutions...
 
-A l'inverse, aborder son propre projet en cherchant à le rendre le
+À l'inverse, aborder son propre projet en cherchant à le rendre le
 plus générique possible, et chercher à intégrer toutes les
 possibilités de personnalisations et d'adaptations dès le début risque
 d'alourdir le projet jusqu'à l'inefficacité. Il faudrait en effet
@@ -128,7 +104,7 @@ d'arbitrer dans leur gestion de projet.
     - données : d'où proviennent-elles, quelles opérations faire. Le
       modèle de données doit refléter l'usage générique qui en est
       fait.
-    - interfaces : à qui s'adresse ce qui est développé, 
+    - interfaces : à qui s'adresse ce qui est développé,
     - contraintes : de temps, de moyens, de compétences...
 - Délimiter ce que l'on cherche à développer de manière générique
   parmi l'ensemble des sous-problèmes et des fonctionnalités
@@ -158,7 +134,6 @@ d'arbitrer dans leur gestion de projet.
 - Utiliser une DSL (Domain Specific Language) pour exprimer les
   différences métier d'un outil générique
 
-
 * Exemples concrets
 
 TODO: choisir un ou plusieurs exemple(s) EIG ?
@@ -167,5 +142,3 @@ TODO: choisir un ou plusieurs exemple(s) EIG ?
   pouvoir la dupliquer à l'échelle nationale : PrévisSecours (repo)
 - réussir à agréger des données publiées sur des pages html : OpenScraper (repo)
 - développer des bibliothèques Python : TracFin (repo)
-
-
