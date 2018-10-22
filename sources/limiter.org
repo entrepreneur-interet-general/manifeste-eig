@@ -1,12 +1,14 @@
 #+title: Limiter : réduire le périmètre fonctionnel, la durée et donc les risques
 
-* Idée générale 
+* Idée générale
 
 La taille des projets informatiques est inversement proportionnelle à
 leur chance d'aboutir. Or, il n'est pas rare de voir, dans
 l'administration, des projets informatiques de plusieurs dizaines de
 millions d'euros et la tendance est à l'augmentation de la taille de
-ces projets [FIXME: référence ?].
+ces projets.
+
+# FIXME: trouver une référence pour appuyer la dernière phrase ?
 
 * Diagnostic
 
@@ -34,15 +36,19 @@ prendre de mauvaises décisions.
 
 * Proposition d'avenir : "Small is beautiful"
 
+# FIXME: étoffer.
+
+# FIXME: Attention à ne pas trop verser du côté de la "composition"
+
 Ce n'est pas simple, mais casser un gros projet en de plus petit
 projets incrémentales fonctionnels et valorisables indépendamment.
 
 Pratiquer le pre-mortem : imaginer toutes les raisons qui ferait qu'un
 projet ne fonctionnerait pas.
 
-[bzg: Attention à ne pas trop verser du côté de la "composition".]
-
 * Exemple de projet bien délimité
+
+# FIXME: faire relire par Laurie et Ned.
 
 Les musées doivent gérer des collections d'objets et les exposer via
 des sites web.  Ces problématiques sont parfois abordées via un seul
