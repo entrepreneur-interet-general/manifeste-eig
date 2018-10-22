@@ -6,4 +6,7 @@
 #+include: sources/mobiliser.org
 #+include: sources/internaliser.org
 #+include: sources/conclusion.org
+#+include: sources/resume.org
+#+include: sources/references.org
+#+include: sources/a-faire-ne-pas-faire.org
 
