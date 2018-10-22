@@ -13,10 +13,10 @@ Nous sommes 28 designers, data scientistes, développeur·euse·s. Nous venons d
 la recherche, de start-ups, ou d'entreprise de toute taille. Nous
 avons des parcours d'ingénieurs ou de sciences humaines.
 
-Nous sommes 28 citoyens, soucieux du bien commun. Notre goût
-pour les technologies du Web s'est mêlé tôt à notre sens civique, et
-nous consacrons du temps à des projets d'utilité sociale, comme des
-associations, ou à des projets de bien commun numérique.
+Nous sommes 28 citoyens, soucieux du bien commun.  Notre goût pour le
+traitement de la donnée et les technologies du Web s'est mêlé tôt à
+notre sens civique : nous consacrons du temps à des projets de biens
+communs numériques et à des projets d'utilité publique.
 
 Nous sommes 28 « Entrepreneur·e·s d'intérêt général » : recrutés par la
 mission Etalab de la DINSIC [Direction interministérielle du
