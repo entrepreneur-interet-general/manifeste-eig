@@ -22,6 +22,9 @@ de comprendre les productions de façon claire, précise.
 Construire, accompagner et diffuser des outils et méthodes explicites
 et réutilisables.
 
+# FIXME: condenser les deux parties suivantes ("concrètement" et
+# "l'ouverture c'est l'avenir...")
+
 ** Concrétement
 
 - logiciel libre
@@ -48,8 +51,16 @@ et réutilisables.
 - Symétrie (le calculant et calculé puissent discuter de la mm chose)
 
 * Diagnostic (TODO)
+
+# FIXME: Rédiger
+
 * Proposition d'avenir (TODO)
+
+# FIXME: Rédiger
+
 * Exemple(s)
+
+# FIXME: choisir un exemple
 
 TODO: choisir soit un exemple parlant soit une série d'exemples.
 
