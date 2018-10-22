@@ -38,25 +38,19 @@ au développement rapide d'une "première version minimale du produit".
 
 * Exemples
 
-** Le site de la DREES
+# FIXME: ne choisir qu'un seul exemple
 
-[Passé]
+** Le site de la DREES
 
 Le site web de la [[http://www.data.drees.sante.gouv.fr][DREES]] est une solution web HTML4 qui s'appuie sur un
 framework web commercial. Par conséquent il est impossible de le faire
 évoluer librement, tout est facturé et les développement ne peuvent
-être effectués que par une seule entreprise.
-
-[Présent]
-
-Aujourd'hui la DREES souhaite utiliser une autre solution pour exposer
-ces données afin d'exposer ses données de façon structurée et de
-gagner en référencement sur les moteurs de recherche.
-
-[À venir]
-
-Afin de réaliser ce site, on privilégie des solutions open source et
-une ouverture du code du site afin de le rendre plus évolutif.
+être effectués que par une seule entreprise.  Aujourd'hui la DREES
+souhaite utiliser une autre solution pour exposer ces données afin
+d'exposer ses données de façon structurée et de gagner en
+référencement sur les moteurs de recherche.  Afin de réaliser ce site,
+on privilégie des solutions open source et une ouverture du code du
+site afin de le rendre plus évolutif.
 
 ** Enrichissement d'un outil
 
@@ -79,4 +73,3 @@ d'explorer, visualiser, modéliser les données.
   et idées, il n'est pas nécessaire de changer de solution, i.e.
   remplacer la solution actuelle.  On peut implémenter la
   fonctionnalité ou créer une API entre un outil et un autre.
-
