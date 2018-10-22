@@ -5,71 +5,70 @@
 *Sous-titre* : Manuel d'utilisation des compétences numériques dans
 l'administration.
 
-* Introduction
+* Qui sommes-nous ?
 
-[Qui sommes-nous ?]
-
-Nous sommes 28 designers, data scientistes, développeur·euse·s. Nous venons de
-la recherche, de start-ups, ou d'entreprise de toute taille. Nous
-avons des parcours d'ingénieurs ou de sciences humaines.
+Nous sommes 28 designers, data scientistes, développeur·euse·s. Nous
+venons de la recherche, de start-ups, ou d'entreprise de toute
+taille. Nous avons des parcours d'ingénieurs ou de sciences humaines.
 
 Nous sommes 28 citoyens, soucieux du bien commun.  Notre goût pour le
 traitement de la donnée et les technologies du Web s'est mêlé tôt à
 notre sens civique : nous consacrons du temps à des projets de biens
 communs numériques et à des projets d'utilité publique.
 
-Nous sommes 28 « Entrepreneur·e·s d'intérêt général » : recrutés par la
-mission Etalab de la DINSIC [Direction interministérielle du
-numérique et du système d'information et de communication de
-l'État], nous avons relevé pendant dix mois un défi au sein de l'État, 
-en binôme ou en trinôme. Nous avons mis nos compétences humaines,
+Nous sommes 28 « Entrepreneur·e·s d'intérêt général » : recrutés par
+la mission Etalab de la DINSIC [Direction interministérielle du
+numérique et du système d'information et de communication de l'État],
+nous avons relevé pendant dix mois un défi au sein de l'État, en
+binôme ou en trinôme. Nous avons mis nos compétences humaines,
 techniques et créatives au service d'agents publics désireux de
 transformer leur administration et leurs outils numériques.
 
-Au terme de nos expériences, nous avons fait la synthèse de principes 
-que nous jugeons fondamentaux pour assurer le succès de la transition 
+Au terme de nos expériences, nous avons fait la synthèse de principes
+que nous jugeons fondamentaux pour assurer le succès de la transition
 numérique de l'État, et nous souhaitons vous les partager.
 
-[À qui s'adresse ce manifeste ?]
+* À qui s'adresse ce manifeste ?
 
 Ce manifeste s'adresse en priorité aux décideurs politiques et aux
 agents publics en charge de la transformation des politiques publics
-par le numérique. Plus largement, il vise tous les citoyens
-ayant à coeur, comme nous, d'améliorer le service public, notamment 
-grâce aux nouveaux horizons du numérique.
+par le numérique. Plus largement, il vise tous les citoyens ayant à
+coeur, comme nous, d'améliorer le service public, notamment grâce aux
+nouveaux horizons du numérique.
 
-[Note d'intention]
+* Comment lire ce manifeste ?
 
-Notre message s'articule en une série de constats et de recommandations. 
-Avant d'y plonger, faisons un rappel essentiel.
+Notre message s'articule en une série de constats et de
+recommandations.  Avant d'y plonger, faisons un rappel essentiel.
 
-Le numérique est un outil.
+Le numérique est un outil.  C'est un outil phénoménal, de par la
+diversité des problèmes qu'il permet de résoudre, de par son
+efficacité, son évolution constante. Mais il ne sera jamais plus que
+cela : un outil. Comme tout outil, utilisé à mauvais escient, il peut
+s'avérer inutile, voire contre-productif, voire néfaste.
 
-C'est un outil phénoménal, de par la diversité des problèmes qu'il permet 
-de résoudre, de par son efficacité, son évolution constante. Mais il ne 
-sera jamais plus que cela : un outil. Comme tout outil, utilisé à mauvais 
-escient, il peut s'avérer inutile, voire contre-productif, voire néfaste.
+Le numérique n'est pas une baguette magique. Il n'est pas
+systématiquement le plus court chemin d'un problème à sa solution. Il
+ne coûte pas rien.
 
-Le numérique n'est pas une baguette magique. Il n'est pas systématiquement 
-le plus court chemin d'un problème à sa solution. Il ne coûte pas rien.
+De même, les conseils que nous transmettons dans ce manifeste n'ont
+rien d'absolu. Ils ne remplaceront pas votre esprit critique, et ne
+s'adapteront pas à toutes les situations.
 
-De même, les conseils que nous transmettons dans ce manifeste n'ont rien 
-d'absolu. Ils ne remplaceront pas votre esprit critique, et ne s'adapteront 
-pas à toutes les situations.
+Notre espoir, en publiant ce document, est d'ouvrir un espace
+d'échange et de dialogue entre tous ceux qui se retrouvent dans nos
+constats, et qui sont curieux de mettre en œuvre les axes que nous
+proposons.
 
-Notre espoir, en publiant ce document, est d'ouvrir un espace d'échange et 
-de dialogue entre tous ceux qui se retrouvent dans nos constats, et qui 
-sont curieux de mettre en œuvre les axes que nous proposons.
+* Notre vision
 
-[Notre vision]
+Nous estimons que les projets numériques les plus susceptibles de
+réussir sont ceux qui regroupent les caractéristiques suivantes :
 
-Nous estimons que les projets numériques les plus susceptibles de réussir 
-sont ceux qui regroupent les caractéristiques suivantes :
-
-Ils sont *de taille réduite*, utilisent des *composants les plus génériques 
-possibles*, dans une approche par *amélioration continue*. S'appuyant sur 
-des *ressources internalisées*, ils permettent de nouvelles formes de 
-*mobilisation* et d'*ouverture*.
+Ils sont *de taille réduite*, utilisent des *composants les plus
+génériques possibles*, dans une approche par *amélioration
+continue*. S'appuyant sur des *ressources internalisées*, ils permettent
+de nouvelles formes de *mobilisation* et d'*ouverture*.
 
 [Ordre suggéré pour les sections : réduire ; rendre générique ;
 améliorer ; internaliser ; mobiliser ; ouvrir.]
