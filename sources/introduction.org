@@ -2,6 +2,8 @@
 
 # Source : [[https://bimestriel.framapad.org/p/eig-introduction]]
 
+# FIXME: finaliser
+
 *Sous-titre* : Manuel d'utilisation des compétences numériques dans
 l'administration.
 

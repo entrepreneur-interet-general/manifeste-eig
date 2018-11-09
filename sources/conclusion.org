@@ -2,8 +2,8 @@
 
 # Source : [[https://bimestriel.framapad.org/p/eig-conclusion]]
 
-# FIXME: acter qu'on utilise le resume.org comme conclusion et
-# dire comment on utilise cette partie avec les citations ?
+# FIXME: acter qu'on utilise le resume.org comme conclusion et dire
+# comment on utilise cette partie avec les citations ?
 
 "Ça ne peut pas se faire du jour au lendemain !"  "Non, mais on peut
 avoir commencé, du jour au lendemain."

@@ -59,6 +59,8 @@ porteurs de projets numériques d'entamer une réflexion à la fois sur
 la portée générique de leur solution, mais aussi de leur permettre
 d'arbitrer dans leur gestion de projet.
 
+#FIXME: condenser, rédiger
+
 ** Penser générique - en général
 
 - Il faut penser dès l'abord aux réutilisations potentielles ou

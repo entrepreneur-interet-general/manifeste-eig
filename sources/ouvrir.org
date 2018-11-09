@@ -25,7 +25,7 @@ et réutilisables.
 # FIXME: condenser les deux parties suivantes ("concrètement" et
 # "l'ouverture c'est l'avenir...")
 
-** Concrétement
+** Concrètement
 
 - logiciel libre
 - ouverture des données
