@@ -47,7 +47,7 @@ Le numérique est un outil.  C'est un outil phénoménal, de par la
 diversité des problèmes qu'il permet de résoudre, de par son
 efficacité, son évolution constante. Mais il ne sera jamais plus que
 cela : un outil. Comme tout outil, utilisé à mauvais escient, il peut
-s'avérer inutile, voire contre-productif, voire néfaste.
+s'avérer inutile, voire contre-productif ou même voire néfaste.
 
 Le numérique n'est pas une baguette magique. Il n'est pas
 systématiquement le plus court chemin d'un problème à sa solution. Il
@@ -69,7 +69,7 @@ réussir sont ceux qui regroupent les caractéristiques suivantes :
 
 Ils sont *de taille réduite*, utilisent des *composants les plus
 génériques possibles*, dans une approche par *amélioration
-continue*. S'appuyant sur des *ressources internalisées*, ils permettent
+continue*. Pour cela ils s'appuient sur des *ressources internalisées*, permettant
 de nouvelles formes de *mobilisation* et d'*ouverture*.
 
 [Ordre suggéré pour les sections : réduire ; rendre générique ;
