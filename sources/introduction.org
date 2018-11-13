@@ -47,7 +47,7 @@ Le numérique est un outil.  C'est un outil phénoménal, de par la
 diversité des problèmes qu'il permet de résoudre, de par son
 efficacité, son évolution constante. Mais il ne sera jamais plus que
 cela : un outil. Comme tout outil, utilisé à mauvais escient, il peut
-s'avérer inutile, voire contre-productif ou même voire néfaste.
+s'avérer inutile, voire contre-productif ou même néfaste.
 
 Le numérique n'est pas une baguette magique. Il n'est pas
 systématiquement le plus court chemin d'un problème à sa solution. Il
