@@ -1,3 +1,5 @@
+Ce dépôt est désormais maintenu sur le compte d'organisation [LEON France](https://github.com/leon-france/manifeste-eig).
+
 # Manifeste EIG
 
 Ce dépôt contient le brouillon du manifeste des entrepreneur·e·s
